@@ -1,0 +1,4 @@
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave.Tests\bin\Debug\Infrastructure.Shard.SqlMasterSlave.Tests.dll
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave.Tests\bin\Debug\Infrastructure.Shard.SqlMasterSlave.Tests.pdb
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave.Tests\obj\Debug\Infrastructure.Shard.SqlMasterSlave.Tests.dll
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave.Tests\obj\Debug\Infrastructure.Shard.SqlMasterSlave.Tests.pdb

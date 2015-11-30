@@ -1,0 +1,14 @@
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\Infrastructure.Shard.ConsoleTest.exe.config
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\Infrastructure.Shard.ConsoleTest.exe
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\Infrastructure.Shard.ConsoleTest.pdb
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\EntityFramework.dll
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\Infrastructure.Shard.dll
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\Infrastructure.Shard.SqlMasterSlave.dll
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\Infrastructure.Shard.SqlMasterSlave.pdb
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\Infrastructure.Shard.pdb
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\EntityFramework.xml
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\obj\Debug\Infrastructure.Shard.ConsoleTest.csprojResolveAssemblyReference.cache
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\obj\Debug\Infrastructure.Shard.ConsoleTest.exe
+E:\ADR\Apollo\Infrastructure.Shard.ConsoleTest\obj\Debug\Infrastructure.Shard.ConsoleTest.pdb

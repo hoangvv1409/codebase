@@ -1,0 +1,11 @@
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\bin\Debug\Infrastructure.Shard.SqlMasterSlave.dll
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\bin\Debug\Infrastructure.Shard.SqlMasterSlave.pdb
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\bin\Debug\EntityFramework.dll
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\bin\Debug\EntityFramework.SqlServer.dll
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\bin\Debug\Infrastructure.Shard.dll
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\bin\Debug\Infrastructure.Shard.pdb
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\bin\Debug\EntityFramework.xml
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\bin\Debug\EntityFramework.SqlServer.xml
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\obj\Debug\Infrastructure.Shard.SqlMasterSlave.csprojResolveAssemblyReference.cache
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\obj\Debug\Infrastructure.Shard.SqlMasterSlave.dll
+E:\ADR\Apollo\Infrastructure.Shard.SqlMasterSlave\obj\Debug\Infrastructure.Shard.SqlMasterSlave.pdb

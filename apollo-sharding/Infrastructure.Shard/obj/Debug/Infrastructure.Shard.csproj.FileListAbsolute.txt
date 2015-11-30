@@ -1,0 +1,4 @@
+E:\ADR\Apollo\Infrastructure.Shard\bin\Debug\Infrastructure.Shard.dll
+E:\ADR\Apollo\Infrastructure.Shard\bin\Debug\Infrastructure.Shard.pdb
+E:\ADR\Apollo\Infrastructure.Shard\obj\Debug\Infrastructure.Shard.dll
+E:\ADR\Apollo\Infrastructure.Shard\obj\Debug\Infrastructure.Shard.pdb
