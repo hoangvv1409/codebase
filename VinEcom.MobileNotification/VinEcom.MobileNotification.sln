@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinEcom.MobileNotification", "VinEcom.MobileNotification\VinEcom.MobileNotification.csproj", "{BEE7DC18-9027-4913-82CF-841D77B044D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{7A3FADA0-D5D3-4DB4-856D-039530D29464}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VinEcom.MobileNotification.Core", "VinEcom.MobileNotification.Core", "{C112393E-001C-4F54-B951-ED4CFD1B07CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{B1B0032B-6F37-4763-AFAA-F83B1D3A1909}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{4FF6D39C-9AA1-464E-99E4-BBF3CC3FC57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinEcom.MobileNotification.Database", "VinEcom.MobileNotification.Database\VinEcom.MobileNotification.Database.csproj", "{588537BE-055E-467D-BA0E-6AE7C0BEDEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinEcom.MobileNotification.Infrastructure", "VinEcom.MobileNotification.Infrastructure\VinEcom.MobileNotification.Infrastructure.csproj", "{631CF347-653D-41A6-9E58-1ABC889CB74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinEcom.MobileNotification.Service", "VinEcom.MobileNotification.Service\VinEcom.MobileNotification.Service.csproj", "{E4CAE0C7-C203-437F-8132-084D4D7DD687}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{65F88CDD-9872-4CA3-A7BA-03045D8BC95E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workers", "Workers", "{4E3E1F50-99BE-457C-AC80-C3644879E60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE7DC18-9027-4913-82CF-841D77B044D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE7DC18-9027-4913-82CF-841D77B044D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE7DC18-9027-4913-82CF-841D77B044D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE7DC18-9027-4913-82CF-841D77B044D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588537BE-055E-467D-BA0E-6AE7C0BEDEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588537BE-055E-467D-BA0E-6AE7C0BEDEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588537BE-055E-467D-BA0E-6AE7C0BEDEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588537BE-055E-467D-BA0E-6AE7C0BEDEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631CF347-653D-41A6-9E58-1ABC889CB74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631CF347-653D-41A6-9E58-1ABC889CB74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631CF347-653D-41A6-9E58-1ABC889CB74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631CF347-653D-41A6-9E58-1ABC889CB74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CAE0C7-C203-437F-8132-084D4D7DD687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CAE0C7-C203-437F-8132-084D4D7DD687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CAE0C7-C203-437F-8132-084D4D7DD687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CAE0C7-C203-437F-8132-084D4D7DD687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BEE7DC18-9027-4913-82CF-841D77B044D2} = {C112393E-001C-4F54-B951-ED4CFD1B07CE}
+		{588537BE-055E-467D-BA0E-6AE7C0BEDEE3} = {4FF6D39C-9AA1-464E-99E4-BBF3CC3FC57D}
+		{631CF347-653D-41A6-9E58-1ABC889CB74D} = {7A3FADA0-D5D3-4DB4-856D-039530D29464}
+		{E4CAE0C7-C203-437F-8132-084D4D7DD687} = {C112393E-001C-4F54-B951-ED4CFD1B07CE}
+		{65F88CDD-9872-4CA3-A7BA-03045D8BC95E} = {B1B0032B-6F37-4763-AFAA-F83B1D3A1909}
+		{4E3E1F50-99BE-457C-AC80-C3644879E60B} = {B1B0032B-6F37-4763-AFAA-F83B1D3A1909}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45
+	EndGlobalSection
+EndGlobal

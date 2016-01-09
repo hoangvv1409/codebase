@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BEE7DC18-9027-4913-82CF-841D77B044D2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VinEcom.MobileNotification</RootNamespace>
+    <AssemblyName>VinEcom.MobileNotification</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aggregate.cs" />
+    <Compile Include="Enums\UserState.cs" />
+    <Compile Include="Events\Order\OrderArrived.cs" />
+    <Compile Include="Events\Order\OrderCancelled.cs" />
+    <Compile Include="Events\Order\OrderConfirmed.cs" />
+    <Compile Include="Events\Order\OrderPaided.cs" />
+    <Compile Include="Events\Order\OrderPartiallyCancelled.cs" />
+    <Compile Include="Events\Order\OrderShipBegun.cs" />
+    <Compile Include="Events\Shipment\ShipmentArrived.cs" />
+    <Compile Include="Events\Shipment\ShipmentShipBegun.cs" />
+    <Compile Include="Events\User\AdrPointAdded.cs" />
+    <Compile Include="Events\User\AdrPointsRefunded.cs" />
+    <Compile Include="Events\User\AdrPointsUsed.cs" />
+    <Compile Include="Events\User\EmailAdded.cs" />
+    <Compile Include="Events\User\MobileAdded.cs" />
+    <Compile Include="Events\User\PasswordChanged.cs" />
+    <Compile Include="Events\User\TwoStepsActivated.cs" />
+    <Compile Include="Handlers\OrderEventHandler.cs" />
+    <Compile Include="Handlers\ShipmentEventHandler.cs" />
+    <Compile Include="Handlers\UserEventHandler.cs" />
+    <Compile Include="MessageTemplate.cs" />
+    <Compile Include="MobileMessage.cs" />
+    <Compile Include="OrderNotification.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShipmentNotification.cs" />
+    <Compile Include="Enums\OrderState.cs" />
+    <Compile Include="Enums\ShipmentState.cs" />
+    <Compile Include="UserNotification.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VinEcom.MobileNotification.Infrastructure\VinEcom.MobileNotification.Infrastructure.csproj">
+      <Project>{631cf347-653d-41a6-9e58-1abc889cb74d}</Project>
+      <Name>VinEcom.MobileNotification.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

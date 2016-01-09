@@ -1,0 +1,16 @@
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\VinEcom.MobileNotification.Infrastructure.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\VinEcom.MobileNotification.Infrastructure.pdb
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\obj\Debug\VinEcom.MobileNotification.Infrastructure.csprojResolveAssemblyReference.cache
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\obj\Debug\VinEcom.MobileNotification.Infrastructure.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\obj\Debug\VinEcom.MobileNotification.Infrastructure.pdb
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\VinEcom.MobileNotification.Infrastructure.dll.config
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Microsoft.ServiceBus.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Microsoft.ServiceBus.xml
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
