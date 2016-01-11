@@ -46,6 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoreServiceImplement\ContentGenerator.cs" />
+    <Compile Include="Handlers\OrderEventHandler.cs" />
+    <Compile Include="Handlers\ShipmentEventHandler.cs" />
+    <Compile Include="Handlers\UserEventHandler.cs" />
     <Compile Include="NotificationService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

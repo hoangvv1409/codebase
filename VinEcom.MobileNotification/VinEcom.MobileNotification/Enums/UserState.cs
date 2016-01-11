@@ -8,12 +8,12 @@ namespace VinEcom.MobileNotification.Enums
 {
     public enum UserState
     {
-        PasswordChanged,
-        TwoStepsActivated,
-        EmailAdded,
-        MobileAdded,
-        AdrPointAdded,
-        AdrPointsUsed,
-        AdrPointsRefunded,
+        PasswordChanged = 1,
+        TwoStepsActivated = 2,
+        EmailAdded = 3,
+        MobileAdded = 4,
+        AdrPointAdded = 5,
+        AdrPointsUsed = 6,
+        AdrPointsRefunded = 7,
     }
 }

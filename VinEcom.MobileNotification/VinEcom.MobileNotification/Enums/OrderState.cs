@@ -8,11 +8,11 @@ namespace VinEcom.MobileNotification.Enums
 {
     public enum OrderState
     {
-        Confirm,
-        Cancel,
-        Paid,
-        Shipping,
-        Arrived,
-        PartiallyCancel
+        Confirm = 1,
+        Cancel = 2,
+        Paid = 3,
+        Shipping = 4,
+        Arrived = 5,
+        PartiallyCancel = 6
     }
 }

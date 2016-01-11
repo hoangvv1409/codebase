@@ -8,7 +8,7 @@ namespace VinEcom.MobileNotification.Enums
 {
     public enum ShipmentState
     {
-        Shipping,
-        Arrived
+        Shipping = 1,
+        Arrived = 2
     }
 }

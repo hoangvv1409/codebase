@@ -21,33 +21,33 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging
             this.metadataProvider = metadataProvider;
         }
 
-        public void Publish(Envelope<IEvent> @event)
+        public void Publish(Envelope<IEvent> e)
         {
-            this.messageSender.Send(() => BuildMessage(@event));
+            this.messageSender.Send(() => BuildMessage(e));
         }
 
         public void Publish(IEnumerable<Envelope<IEvent>> events)
         {
-            foreach (var @event in events)
+            foreach (var e in events)
             {
-                this.messageSender.Send(() => BuildMessage(@event));
+                this.messageSender.Send(() => BuildMessage(e));
             }
         }
 
         private BrokeredMessage BuildMessage(Envelope<IEvent> envelope)
         {
-            var @event = envelope.Body;
+            var e = envelope.Body;
 
             var stream = new MemoryStream();
             try
             {
                 var writer = new StreamWriter(stream);
-                this.serializer.Serialize(writer, @event);
+                this.serializer.Serialize(writer, e);
                 stream.Position = 0;
 
                 var message = new BrokeredMessage(stream, true);
 
-                //message.SessionId = @event.SourceId.ToString();
+                //message.SessionId = e.SourceId.ToString();
 
                 if (!string.IsNullOrWhiteSpace(envelope.MessageId))
                 {
@@ -59,7 +59,7 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging
                     message.CorrelationId = envelope.CorrelationId;
                 }
 
-                var metadata = this.metadataProvider.GetMetadata(@event);
+                var metadata = this.metadataProvider.GetMetadata(e);
                 if (metadata != null)
                 {
                     foreach (var pair in metadata)

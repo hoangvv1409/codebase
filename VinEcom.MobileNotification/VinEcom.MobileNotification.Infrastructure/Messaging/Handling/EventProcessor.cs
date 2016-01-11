@@ -23,10 +23,10 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging.Handling
 
         protected override void ProcessMessage(string traceIdentifier, object payload, string messageId, string correlationId, BrokerdMessageInformation messageInformation)
         {
-            var @event = payload as IEvent;
-            if (@event != null)
+            var e = payload as IEvent;
+            if (e != null)
             {
-                this.eventDispatcher.DispatchMessage(@event, messageId, correlationId, traceIdentifier);
+                this.eventDispatcher.DispatchMessage(e, messageId, correlationId, traceIdentifier);
             }
         }
     }

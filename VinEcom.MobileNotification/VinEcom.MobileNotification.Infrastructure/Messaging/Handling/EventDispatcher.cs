@@ -59,35 +59,35 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging.Handling
 
         public void DispatchMessages(IEnumerable<IEvent> events)
         {
-            foreach (var @event in events)
+            foreach (var e in events)
             {
-                this.DispatchMessage(@event);
+                this.DispatchMessage(e);
             }
         }
 
-        public void DispatchMessage(IEvent @event)
+        public void DispatchMessage(IEvent e)
         {
-            this.DispatchMessage(@event, null, null, "");
+            this.DispatchMessage(e, null, null, "");
         }
 
-        public void DispatchMessage(IEvent @event, string messageId, string correlationId, string traceIdentifier)
+        public void DispatchMessage(IEvent e, string messageId, string correlationId, string traceIdentifier)
         {
             Action<IEvent, string, string, string> dispatch;
-            if (this.dispatchersByEventType.TryGetValue(@event.GetType(), out dispatch))
+            if (this.dispatchersByEventType.TryGetValue(e.GetType(), out dispatch))
             {
-                dispatch(@event, messageId, correlationId, traceIdentifier);
+                dispatch(e, messageId, correlationId, traceIdentifier);
             }
             // Invoke also the generic handlers that have registered to handle IEvent directly.
             if (this.dispatchersByEventType.TryGetValue(typeof(IEvent), out dispatch))
             {
-                dispatch(@event, messageId, correlationId, traceIdentifier);
+                dispatch(e, messageId, correlationId, traceIdentifier);
             }
         }
 
-        private void DoDispatchMessage<T>(T @event, string messageId, string correlationId, string traceIdentifier)
+        private void DoDispatchMessage<T>(T e, string messageId, string correlationId, string traceIdentifier)
             where T : IEvent
         {
-            var envelope = Envelope.Create(@event);
+            var envelope = Envelope.Create(e);
             envelope.MessageId = messageId;
             envelope.CorrelationId = correlationId;
 

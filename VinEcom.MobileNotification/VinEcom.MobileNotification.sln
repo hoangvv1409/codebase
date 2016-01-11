@@ -23,6 +23,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{65F88CDD-9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workers", "Workers", "{4E3E1F50-99BE-457C-AC80-C3644879E60B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6D626022-9C3E-49D9-91AC-4DDBCC7482A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinEcom.MobileNotification.Database.Tests", "VinEcom.MobileNotification.Database.Test\VinEcom.MobileNotification.Database.Tests.csproj", "{BE5EE352-F578-42A6-8926-9C0B7B7166E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F11F37D2-D9B8-4677-AAA8-FA54FA585F77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinEcom.MobileNotification.Service.Tests", "VinEcom.MobileNotification.Service.Tests\VinEcom.MobileNotification.Service.Tests.csproj", "{0CEDA1DA-01A4-4B48-AB56-CDCE39A919DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinEcom.MobileNotification.Tests", "VinEcom.MobileNotification.Tests\VinEcom.MobileNotification.Tests.csproj", "{71FA3C2B-2DEE-43DA-AE14-46EBEA078228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +55,18 @@ Global
 		{E4CAE0C7-C203-437F-8132-084D4D7DD687}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4CAE0C7-C203-437F-8132-084D4D7DD687}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4CAE0C7-C203-437F-8132-084D4D7DD687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5EE352-F578-42A6-8926-9C0B7B7166E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5EE352-F578-42A6-8926-9C0B7B7166E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5EE352-F578-42A6-8926-9C0B7B7166E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5EE352-F578-42A6-8926-9C0B7B7166E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CEDA1DA-01A4-4B48-AB56-CDCE39A919DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEDA1DA-01A4-4B48-AB56-CDCE39A919DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEDA1DA-01A4-4B48-AB56-CDCE39A919DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEDA1DA-01A4-4B48-AB56-CDCE39A919DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FA3C2B-2DEE-43DA-AE14-46EBEA078228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FA3C2B-2DEE-43DA-AE14-46EBEA078228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FA3C2B-2DEE-43DA-AE14-46EBEA078228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FA3C2B-2DEE-43DA-AE14-46EBEA078228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +78,11 @@ Global
 		{E4CAE0C7-C203-437F-8132-084D4D7DD687} = {C112393E-001C-4F54-B951-ED4CFD1B07CE}
 		{65F88CDD-9872-4CA3-A7BA-03045D8BC95E} = {B1B0032B-6F37-4763-AFAA-F83B1D3A1909}
 		{4E3E1F50-99BE-457C-AC80-C3644879E60B} = {B1B0032B-6F37-4763-AFAA-F83B1D3A1909}
+		{6D626022-9C3E-49D9-91AC-4DDBCC7482A0} = {4FF6D39C-9AA1-464E-99E4-BBF3CC3FC57D}
+		{BE5EE352-F578-42A6-8926-9C0B7B7166E5} = {6D626022-9C3E-49D9-91AC-4DDBCC7482A0}
+		{F11F37D2-D9B8-4677-AAA8-FA54FA585F77} = {C112393E-001C-4F54-B951-ED4CFD1B07CE}
+		{0CEDA1DA-01A4-4B48-AB56-CDCE39A919DD} = {F11F37D2-D9B8-4677-AAA8-FA54FA585F77}
+		{71FA3C2B-2DEE-43DA-AE14-46EBEA078228} = {F11F37D2-D9B8-4677-AAA8-FA54FA585F77}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45

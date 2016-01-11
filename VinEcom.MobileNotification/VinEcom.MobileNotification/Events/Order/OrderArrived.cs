@@ -10,8 +10,14 @@ namespace VinEcom.MobileNotification.Events
 {
     public class OrderArrived : IEvent
     {
+        public OrderArrived(Guid id)
+        {
+            this.Id = id;
+        }
+
+        public Guid Id { get; private set; }
         public long SOID { get; set; }
-        public int UserId { get; set; }
+        public long UserId { get; set; }
         public string WarehouseName { get; set; }
         public int WarehouseId { get; set; }
         public OrderState OrderState

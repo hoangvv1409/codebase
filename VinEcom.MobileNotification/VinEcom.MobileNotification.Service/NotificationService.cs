@@ -4,71 +4,83 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using VinEcom.MobileNotification.Database;
+using VinEcom.MobileNotification.Database.Repository;
+using VinEcom.MobileNotification.Infrastructure;
+using VinEcom.MobileNotification.Infrastructure.Messaging;
 
 namespace VinEcom.MobileNotification.Service
 {
     public class NotificationService
     {
         private Func<MobileNotificationDbContext> dbContext;
+        private IEventBus bus;
+        private ITextSerializer textSerializer;
 
-        public NotificationService(Func<MobileNotificationDbContext> dbContext)
+        public NotificationService(Func<MobileNotificationDbContext> dbContext, IEventBus bus, ITextSerializer textSerializer)
         {
             this.dbContext = dbContext;
+            this.bus = bus;
+            this.textSerializer = textSerializer;
         }
 
-        public void PushOrderNotification(OrderNotification orderNotification)
+        public void PushOrderNotification(Order orderNotification)
         {
+            OrderRepository repository = new OrderRepository(dbContext);
+
             orderNotification.GenerateEvent();
-            OrderNotificationRepository repository = new OrderNotificationRepository(dbContext);
             repository.Save(orderNotification);
             repository.SaveChanges();
 
-            //TODO Save Undispatch db then send to bus
+            this.Publish(orderNotification);
         }
 
-        public void PushShipmentNotification(ShipmentNotification shipmentNotification)
+        public void PushShipmentNotification(Shipment shipmentNotification)
         {
+            ShipmentRepository repository = new ShipmentRepository(dbContext);
+
             shipmentNotification.GenerateEvent();
-            ShipmentNotificationRepository repository = new ShipmentNotificationRepository(dbContext);
             repository.Save(shipmentNotification);
             repository.SaveChanges();
 
-            //TODO Save Undispatch db then send to bus
+            this.Publish(shipmentNotification);
         }
 
-        public void PushUserNotification(UserNotification userNotification)
+        public void PushUserNotification(User userNotification)
         {
+            UserRepository repository = new UserRepository(dbContext);
+
             userNotification.GenerateEvent();
-            UserNotificationRepository repository = new UserNotificationRepository(dbContext);
             repository.Save(userNotification);
             repository.SaveChanges();
 
-            //TODO Save Undispatch db then send to bus
-        }
-
-        public void SaveMobileMessage(MobileMessage mobileMessage)
-        {
-            MobileMessageRepository repository = new MobileMessageRepository(dbContext);
-            repository.Save(mobileMessage);
-            repository.SaveChanges();
+            this.Publish(userNotification);
         }
 
         public IEnumerable<MobileMessage> GetUnreadMessages(int userId, int pageIndex, int pageSize)
         {
             MobileMessageRepository repository = new MobileMessageRepository(dbContext);
+            var mobileMessage = repository.GetHistory(userId, pageIndex, pageSize);
+            repository.SetUnredMessageToRead(userId);
 
-            return repository.GetHistory(userId, pageIndex, pageSize);
+            return mobileMessage;
         }
 
         public int CountUnreadMessage(long userId)
         {
             MobileMessageRepository repository = new MobileMessageRepository(dbContext);
-
             var count = repository.GetUnreadMessageNumber(userId);
-            repository.SetUnredMessageToRead(userId);
-            repository.SaveChanges();
 
             return count;
+        }
+
+        /// <summary>
+        /// Save then publish
+        /// </summary>
+        /// <param name="aggregate"></param>
+        private void Publish(Aggregate aggregate)
+        {
+            EventMessageRepository eventRep = new EventMessageRepository(dbContext, bus, textSerializer);
+            eventRep.Save(aggregate);
         }
     }
 }

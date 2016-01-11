@@ -8,7 +8,7 @@ namespace VinEcom.MobileNotification
 {
     public class EventMessage
     {
+        public Guid Id { get; set; }
         public string Payload { get; set; }
-        public string CorrelationId { get; set; }
     }
 }

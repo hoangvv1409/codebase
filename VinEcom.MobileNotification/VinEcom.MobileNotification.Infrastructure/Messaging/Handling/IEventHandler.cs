@@ -13,7 +13,7 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging.Handling
     public interface IEventHandler<T> : IEventHandler
         where T : IEvent
     {
-        void Handle(T @event);
+        void Handle(T e);
     }
 
     public interface IEnvelopedEventHandler<T> : IEventHandler

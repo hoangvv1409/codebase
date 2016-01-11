@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 using VinEcom.MobileNotification.Enums;
 using VinEcom.MobileNotification.Infrastructure.Messaging;
 
-namespace VinEcom.MobileNotification.Events.User
+namespace VinEcom.MobileNotification.Events
 {
     public class EmailAdded : IEvent
     {
-        public int UserId { get; set; }
+        public EmailAdded(Guid id)
+        {
+            this.Id = id;
+        }
+
+        public Guid Id { get; private set; }
+        public long UserId { get; set; }
 
         public UserState UserState
         {
