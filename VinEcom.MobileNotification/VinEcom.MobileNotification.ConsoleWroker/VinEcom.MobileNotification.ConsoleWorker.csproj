@@ -4,15 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E4CAE0C7-C203-437F-8132-084D4D7DD687}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <ProjectGuid>{B7050CE9-28D7-4327-A9B1-3D158B815833}</ProjectGuid>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VinEcom.MobileNotification.Service</RootNamespace>
-    <AssemblyName>VinEcom.MobileNotification.Service</AssemblyName>
+    <RootNamespace>VinEcom.MobileNotification.ConsoleWorker</RootNamespace>
+    <AssemblyName>VinEcom.MobileNotification.ConsoleWorker</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +23,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -30,14 +32,19 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EntityFramework">
-      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll</HintPath>
     </Reference>
-    <Reference Include="EntityFramework.SqlServer">
-      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration">
+      <HintPath>..\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.RegistrationByConvention">
+      <HintPath>..\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.RegistrationByConvention.dll</HintPath>
     </Reference>
     <Reference Include="System" />
-    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -46,33 +53,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CoreServiceImplement\ContentGenerator.cs" />
-    <Compile Include="Handlers\OrderEventHandler.cs" />
-    <Compile Include="Handlers\ShipmentEventHandler.cs" />
-    <Compile Include="Handlers\UserEventHandler.cs" />
-    <Compile Include="NotificationService.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\VinEcom.MobileNotification.Database\VinEcom.MobileNotification.Database.csproj">
-      <Project>{588537be-055e-467d-ba0e-6ae7c0bedee3}</Project>
-      <Name>VinEcom.MobileNotification.Database</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\VinEcom.MobileNotification.Infrastructure\VinEcom.MobileNotification.Infrastructure.csproj">
-      <Project>{631cf347-653d-41a6-9e58-1abc889cb74d}</Project>
-      <Name>VinEcom.MobileNotification.Infrastructure</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\VinEcom.MobileNotification\VinEcom.MobileNotification.csproj">
-      <Project>{bee7dc18-9027-4913-82cf-841d77b044d2}</Project>
-      <Name>VinEcom.MobileNotification</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="OneSignalService\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
