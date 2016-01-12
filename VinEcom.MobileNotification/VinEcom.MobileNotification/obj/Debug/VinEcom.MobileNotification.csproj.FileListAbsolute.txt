@@ -12,3 +12,17 @@ E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Mi
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\VinEcom.MobileNotification.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\VinEcom.MobileNotification.pdb
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\VinEcom.MobileNotification.Infrastructure.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Microsoft.ServiceBus.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\VinEcom.MobileNotification.Infrastructure.pdb
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Microsoft.ServiceBus.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\obj\Debug\VinEcom.MobileNotification.csprojResolveAssemblyReference.cache
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\obj\Debug\VinEcom.MobileNotification.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification\obj\Debug\VinEcom.MobileNotification.pdb

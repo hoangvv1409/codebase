@@ -57,7 +57,62 @@ namespace VinEcom.MobileNotification.Infrastructure.Tests
         [TestMethod]
         public void when_dispatching_an_event_with_no_registered_handler_then_doeas_nothing()
         {
+            var @event = new EventC();
 
+            this.dispatcher.DispatchMessage(@event, "message", "correlation", "");
+        }
+    }
+
+    [TestClass]
+    public class given_dispatcher_with_multiple_handlers
+    {
+        private EventDispatcher dispatcher;
+        private Mock<IEventHandler> handler1Mock;
+        private Mock<IEventHandler> handler2Mock;
+
+        public given_dispatcher_with_multiple_handlers()
+        {
+            this.dispatcher = new EventDispatcher();
+            this.handler1Mock = new Mock<IEventHandler>();
+            this.handler2Mock = new Mock<IEventHandler>();
+
+            this.handler1Mock.As<IEnvelopedEventHandler<EventA>>();
+            this.handler1Mock.As<IEventHandler<EventB>>(); this.handler2Mock.As<IEventHandler<EventA>>();
+
+            this.dispatcher.Register(this.handler1Mock.Object);
+            this.dispatcher.Register(this.handler2Mock.Object);
+        }
+
+        [TestMethod]
+        public void when_dispatching_an_event_with_multiple_registered_handlers_then_invokes_handlers()
+        {
+            var @event = new EventA();
+
+            this.dispatcher.DispatchMessage(@event, "message", "correlation", "");
+
+            this.handler1Mock.As<IEnvelopedEventHandler<EventA>>()
+                .Verify(h => h.Handle(It.Is<Envelope<EventA>>(e => e.Body == @event && e.MessageId == "message" && e.CorrelationId == "correlation")),
+                    Times.Once());
+
+            this.handler2Mock.As<IEventHandler<EventA>>().Verify(h => h.Handle(@event), Times.Once);
+        }
+
+        [TestMethod]
+        public void when_dispatching_an_event_with_single_registered_handler_then_invokes_handler()
+        {
+            var @event = new EventB();
+
+            this.dispatcher.DispatchMessage(@event, "message", "correlation", "");
+
+            this.handler1Mock.As<IEventHandler<EventB>>().Verify(h => h.Handle(@event), Times.Once());
+        }
+
+        [TestMethod]
+        public void when_dispatching_an_event_with_no_registered_handler_then_does_nothing()
+        {
+            var @event = new EventC();
+
+            this.dispatcher.DispatchMessage(@event, "message", "correlation", "");
         }
     }
 
