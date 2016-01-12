@@ -50,8 +50,18 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="OrderFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VinEcom.MobileNotification.Infrastructure\VinEcom.MobileNotification.Infrastructure.csproj">
+      <Project>{631cf347-653d-41a6-9e58-1abc889cb74d}</Project>
+      <Name>VinEcom.MobileNotification.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VinEcom.MobileNotification\VinEcom.MobileNotification.csproj">
+      <Project>{bee7dc18-9027-4913-82cf-841d77b044d2}</Project>
+      <Name>VinEcom.MobileNotification</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
