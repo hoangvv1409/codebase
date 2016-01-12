@@ -2,3 +2,8 @@ E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\bin\De
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\bin\Debug\VinEcom.MobileNotification.Tests.pdb
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\obj\Debug\VinEcom.MobileNotification.Tests.dll
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\obj\Debug\VinEcom.MobileNotification.Tests.pdb
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\bin\Debug\VinEcom.MobileNotification.Tests.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\bin\Debug\VinEcom.MobileNotification.Tests.pdb
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\obj\Debug\VinEcom.MobileNotification.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\obj\Debug\VinEcom.MobileNotification.Tests.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Tests\obj\Debug\VinEcom.MobileNotification.Tests.pdb

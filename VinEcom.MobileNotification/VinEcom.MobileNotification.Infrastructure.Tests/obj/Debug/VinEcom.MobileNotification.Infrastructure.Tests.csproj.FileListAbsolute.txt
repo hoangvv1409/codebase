@@ -1,0 +1,16 @@
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\obj\Debug\VinEcom.MobileNotification.Infrastructure.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\VinEcom.MobileNotification.Infrastructure.Tests.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\VinEcom.MobileNotification.Infrastructure.Tests.pdb
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Moq.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\VinEcom.MobileNotification.Infrastructure.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Microsoft.ServiceBus.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\VinEcom.MobileNotification.Infrastructure.pdb
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Moq.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Microsoft.ServiceBus.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\obj\Debug\VinEcom.MobileNotification.Infrastructure.Tests.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Infrastructure.Tests\obj\Debug\VinEcom.MobileNotification.Infrastructure.Tests.pdb
