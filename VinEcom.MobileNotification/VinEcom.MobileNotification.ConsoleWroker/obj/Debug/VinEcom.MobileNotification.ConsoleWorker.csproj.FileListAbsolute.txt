@@ -1,0 +1,15 @@
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\VinEcom.MobileNotification.ConsoleWorker.exe.config
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\VinEcom.MobileNotification.ConsoleWorker.exe
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\VinEcom.MobileNotification.ConsoleWorker.pdb
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\obj\Debug\VinEcom.MobileNotification.ConsoleWorker.csprojResolveAssemblyReference.cache
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\obj\Debug\VinEcom.MobileNotification.ConsoleWorker.exe
+E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.ConsoleWroker\obj\Debug\VinEcom.MobileNotification.ConsoleWorker.pdb
