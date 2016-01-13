@@ -38,7 +38,7 @@ namespace VinEcom.MobileNotification
             this.CreatedDate = DateTime.Now;
         }
 
-        public Shipment(int shipmentId, long soid, long userId, ShipmentState shipmentState, string warehouseName, int warehouseId)
+        public Shipment(int shipmentId, long soid, long userId, ShipmentState shipmentState, int warehouseId, string warehouseName)
             : this(shipmentId, soid, userId, shipmentState)
         {
             this.WarehouseId = warehouseId;
@@ -63,9 +63,7 @@ namespace VinEcom.MobileNotification
                     {
                         ShipmentId = this.ShipmentId,
                         SOID = this.SOID,
-                        UserId = this.UserId,
-                        WarehouseName = this.WarehouseName,
-                        WarehouseId = this.WarehouseId
+                        UserId = this.UserId
                     };
                 default:
                     return null;

@@ -55,6 +55,7 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -82,6 +83,9 @@
     <Compile Include="Messaging\IEventBus.cs" />
     <Compile Include="Messaging\IMessageReceiver.cs" />
     <Compile Include="Messaging\IMessageSender.cs" />
+    <Compile Include="Messaging\IMessageSenderPool.cs" />
+    <Compile Include="Messaging\MessageSenderPool.cs" />
+    <Compile Include="Messaging\ServiceBusConfig.cs" />
     <Compile Include="Messaging\SubscriptionReceiver.cs" />
     <Compile Include="Instrumentation\SubscriptionReceiverInstrumentation.cs" />
     <Compile Include="Messaging\TopicSender.cs" />
@@ -90,6 +94,8 @@
     <Compile Include="Serialization\JsonTextSerializer.cs" />
     <Compile Include="Serialization\TextSerializerExtensions.cs" />
     <Compile Include="ServiceBusSettings.cs" />
+    <Compile Include="StandardMetadata.cs" />
+    <Compile Include="StandardMetadataProvider.cs" />
     <Compile Include="Util\BrokeredMessageExtensions.cs" />
     <Compile Include="Util\TaskEx.cs" />
   </ItemGroup>

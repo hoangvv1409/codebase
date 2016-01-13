@@ -8,6 +8,6 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging
 {
     public interface IEvent
     {
-        Guid Id { get; }
+        Guid SourceId { get; }
     }
 }

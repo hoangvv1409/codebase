@@ -11,7 +11,7 @@ namespace VinEcom.MobileNotification.InternalApi.Models
         public long SOID { get; set; }
         public int ShipmentState { get; set; }
         public long UserId { get; set; }
+        public int? WarehouseId { get; set; }
         public string WarehouseName { get; set; }
-        public int WarehouseId { get; set; }
     }
 }

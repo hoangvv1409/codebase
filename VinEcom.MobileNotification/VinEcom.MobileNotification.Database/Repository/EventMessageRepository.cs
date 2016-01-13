@@ -39,7 +39,7 @@ namespace VinEcom.MobileNotification.Database.Repository
                 this.serializer.Serialize(writer, e);
                 serialized = new EventMessage
                 {
-                    Id = e.Id,
+                    Id = e.SourceId,
                     Payload = writer.ToString(),
                 };
             }

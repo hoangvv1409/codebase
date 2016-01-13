@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<InfrastructureSettings xmlns="urn:adayroi">
+  <ServiceBus>
+    <ConnectionString>Endpoint=sb://vm-dev-api01.adayroi.uat/Transportation,sb://vm-dev-web01.adayroi.uat/Transportation,sb://vm-dev-db01.adayroi.uat/Transportation;StsEndpoint=https://vm-dev-api01.adayroi.uat:9355/Transportation,https://vm-dev-web01.adayroi.uat:9355/Transportation,https://vm-dev-db01.adayroi.uat:9355/Transportation;RuntimePort=9354;ManagementPort=9355;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=iTuJ8iRt7R8eq33eUaA6UVsJehvxSF1TduUELyb34Tc=</ConnectionString>
+    <Topics>
+      <Topic Path="notification/events" IsEventBus="true">
+        <Subscription Name="Order" RequiresSession="false"/>
+        <Subscription Name="Shipment" RequiresSession="false"/>
+        <Subscription Name="User" RequiresSession="false"/>
+		<!-- <Subscription Name="Push" RequiresSession="false"/> -->
+      </Topic>
+    </Topics>
+  </ServiceBus>
+  <!--<RedisCache>
+      <ConnectionSettings>
+        <KeepAlive>5</KeepAlive>
+        <SyncTimeout>50000</SyncTimeout>
+        <AbortOnConnectionFail>false</AbortOnConnectionFail>
+        <AllowAdmin>true</AllowAdmin>
+        <ConnectionTimeout>50000</ConnectionTimeout>
+        <ConnectRetry>5</ConnectRetry>
+      </ConnectionSettings>
+      <RedisMaster>
+        <ServerIP>10.220.75.22:6379</ServerIP>
+        <DbId>1</DbId>
+      </RedisMaster>
+      <RedisSlave>
+        <ServerIP>10.220.75.22:6379</ServerIP>
+        <DbId>1</DbId>
+      </RedisSlave>
+      <RedisSession>
+        <ServerIP>10.220.75.22:6379</ServerIP>
+        <DbId>1</DbId>
+      </RedisSession>
+      <RedisConsumer>
+        <ServerIP>10.220.75.22:6379</ServerIP>
+        <DbId>1</DbId>
+      </RedisConsumer>
+    </RedisCache>
+    <Msmq>
+      <MsmqName>Event</MsmqName>
+      <MsmqDeadLetterName>Event</MsmqDeadLetterName>
+    </Msmq>
+    <EventSourcing>
+      <ConnectionString>user id=adruserfortest;password=adruserfortest@qaz;server=10.220.75.25;database=Adayroi_Oms_V2</ConnectionString>
+    </EventSourcing>-->
+</InfrastructureSettings>

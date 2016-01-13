@@ -9,7 +9,7 @@ namespace VinEcom.MobileNotification.InternalApi.Models
     {
         public long UserId { get; set; }
         public decimal? AdrPoint { get; set; }
-        public long SOID { get; set; }
+        public long? SOID { get; set; }
         public int UserState { get; set; }
     }
 }

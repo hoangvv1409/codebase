@@ -76,8 +76,6 @@ namespace VinEcom.MobileNotification.Service.Tests
             {
                 SOID = 123456,
                 UserId = 123,
-                WarehouseId = 1,
-                WarehouseName = "Kho tong Ha Noi",
                 ShipmentId = 5
             };
 

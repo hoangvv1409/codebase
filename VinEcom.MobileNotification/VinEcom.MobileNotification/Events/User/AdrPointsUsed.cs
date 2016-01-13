@@ -12,10 +12,10 @@ namespace VinEcom.MobileNotification.Events
     {
         public AdrPointsUsed(Guid id)
         {
-            this.Id = id;
+            this.SourceId = id;
         }
 
-        public Guid Id { get; private set; }
+        public Guid SourceId { get; private set; }
         public long UserId { get; set; }
         public decimal AdrPoints { get; set; }
         public long SOID { get; set; }

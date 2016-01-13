@@ -10,7 +10,7 @@ namespace VinEcom.MobileNotification
 {
     public class MobileMessage
     {
-        public long Id { get; set; }
+        public Guid Id { get; set; }
         public long UserId { get; set; }
         public long SOID { get; set; }
         public long ShipmentId { get; set; }
@@ -25,6 +25,7 @@ namespace VinEcom.MobileNotification
 
         public void Init()
         {
+            Id = Guid.NewGuid();
             CreatedTime = DateTime.Now;
             SeenStatus = 0;
             SendStatus = 0;

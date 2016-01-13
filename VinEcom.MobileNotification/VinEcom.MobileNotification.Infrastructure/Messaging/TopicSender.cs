@@ -7,6 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling;
 using Microsoft.ServiceBus.Messaging;
+using System.Transactions;
 
 namespace VinEcom.MobileNotification.Infrastructure.Messaging
 {
@@ -14,35 +15,37 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging
     {
         private readonly ServiceBusSettings settings;
         private readonly string topic;
-        private readonly RetryPolicy retryPolicy;
+        private readonly Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.RetryPolicy retryPolicy;
         private readonly RetryStrategy retryStrategy;
         private readonly int maxNumberRetry;
-        private readonly TopicClient topicClient;
-        //private readonly MsmqSender msmqSender;
-        //private readonly MessageSenderPool senderPool;
+        //private readonly TopicClient topicClient;
+        private readonly MessageSenderPool senderPool;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="TopicSender"/> class, 
         /// automatically creating the given topic if it does not exist.
         /// </summary>
         public TopicSender(ServiceBusSettings settings, string topic)
-            : this(settings, topic, new ExponentialBackoff(10, TimeSpan.FromMilliseconds(100), TimeSpan.FromSeconds(15), TimeSpan.FromSeconds(1)))
+            : this(settings, topic, 10, new ExponentialBackoff(10, TimeSpan.FromMilliseconds(100), TimeSpan.FromSeconds(15), TimeSpan.FromSeconds(1)))
         {
         }
 
-        ///// <summary>
-        ///// Initializes a new instance of the <see cref="TopicSender"/> class, 
-        ///// automatically creating the given topic if it does not exist.
-        ///// </summary>
-        protected TopicSender(ServiceBusSettings settings, string topic, RetryStrategy retryStrategy)
+        /// <summary>
+        /// Initializes a new instance of the <see cref="TopicSender"/> class, 
+        /// automatically creating the given topic if it does not exist.
+        /// </summary>
+        protected TopicSender(ServiceBusSettings settings, string topic, int maxNumberRetry, RetryStrategy retryStrategy)
         {
             this.settings = settings;
             this.topic = topic;
 
             this.retryStrategy = retryStrategy;
-            var factory = MessagingFactory.CreateFromConnectionString(this.settings.ConnectionString);
-            this.topicClient = factory.CreateTopicClient(this.topic);
-            //this.senderPool = new MessageSenderPool(this.settings.ConnectionString, topic);
+            this.maxNumberRetry = maxNumberRetry;
+            //var factory = MessagingFactory.CreateFromConnectionString(this.settings.ConnectionString);
+            //this.topicClient = factory.CreateTopicClient(this.topic);
+            this.senderPool = new MessageSenderPool(this.settings.ConnectionString, topic);
+
+            //this.msmqSender = new MsmqSender( msmqSetting, SendMessageToBus );
 
             this.retryPolicy = new RetryPolicy<ServiceBusTransientErrorDetectionStrategy>(this.retryStrategy);
             this.retryPolicy.Retrying += (s, e) =>
@@ -82,59 +85,45 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging
             }
         }
 
-        public void Send(Func<BrokeredMessage> messageFactory)
-        {
-            var resetEvent = new ManualResetEvent(false);
-            Exception exception = null;
-
-            this.SendAsync(
-                messageFactory,
-                () =>
-                {
-                    //resetEvent.Set();
-                },
-                ex =>
-                {
-                    exception = ex;
-                    //resetEvent.Set();
-                });
-
-            //resetEvent.WaitOne();
-            if (exception != null)
-            {
-                throw exception;
-            }
-        }
-
-        protected virtual void DoBeginSendMessage(BrokeredMessage message, AsyncCallback ac)
-        {
-            try
-            {
-                this.topicClient.BeginSend(message, ac, message);
-            }
-            catch
-            {
-                message.Dispose();
-                throw;
-            }
-        }
-
-        protected virtual void DoEndSendMessage(IAsyncResult ar)
-        {
-            try
-            {
-                this.topicClient.EndSend(ar);
-            }
-            finally
-            {
-                using (ar.AsyncState as IDisposable) { }
-            }
-        }
-
-
         public void SendAsync(Func<BrokeredMessage> messageFactory, Action successCallback, Action<Exception> exceptionCallback)
         {
-            throw new NotImplementedException();
+            retryPolicy.ExecuteAsync(() => this.senderPool.GetMessageSender().SendAsync(messageFactory())).ContinueWith(r =>
+            {
+                if (r.Exception != null)
+                {
+                    exceptionCallback(r.Exception);
+                }
+                else
+                {
+                    successCallback();
+                }
+            });
+        }
+
+        public void Send(Func<BrokeredMessage> messageFactory)
+        {
+            if (Transaction.Current == null)
+            {
+                //var resetEvent = new ManualResetEvent(false);
+                Exception exception = null;
+
+                this.SendAsync(
+                    messageFactory,
+                    () =>
+                    { //resetEvent.Set(); 
+                    },
+                    ex =>
+                    {
+                        exception = ex;
+                        //resetEvent.Set();
+                    });
+
+                //resetEvent.WaitOne();
+                if (exception != null)
+                {
+                    throw exception;
+                }
+            }
         }
     }
 }

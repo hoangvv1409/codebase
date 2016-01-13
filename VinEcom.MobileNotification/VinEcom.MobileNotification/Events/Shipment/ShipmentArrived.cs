@@ -12,10 +12,10 @@ namespace VinEcom.MobileNotification.Events
     {
         public ShipmentArrived(Guid id)
         {
-            this.Id = id;
+            this.SourceId = id;
         }
 
-        public Guid Id { get; private set; }
+        public Guid SourceId { get; private set; }
         public int ShipmentId { get; set; }
         public long SOID { get; set; }
         public long UserId { get; set; }

@@ -118,7 +118,7 @@ namespace VinEcom.MobileNotification.Infrastructure.Tests
 
     public class EventA : IEvent
     {
-        public Guid Id
+        public Guid SourceId
         {
             get { return Guid.Empty; }
         }
@@ -126,7 +126,7 @@ namespace VinEcom.MobileNotification.Infrastructure.Tests
 
     public class EventB : IEvent
     {
-        public Guid Id
+        public Guid SourceId
         {
             get { return Guid.Empty; }
         }
@@ -134,7 +134,7 @@ namespace VinEcom.MobileNotification.Infrastructure.Tests
 
     public class EventC : IEvent
     {
-        public Guid Id
+        public Guid SourceId
         {
             get { return Guid.Empty; }
         }

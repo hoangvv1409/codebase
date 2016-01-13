@@ -10,8 +10,8 @@ namespace VinEcom.MobileNotification.Database
 {
     public class MobileNotificationDbContext : DbContext
     {
-        public MobileNotificationDbContext(string connectionString)
-            : base(connectionString)
+        public MobileNotificationDbContext(string nameOrConnectionString)
+            : base(nameOrConnectionString)
         {
             this.Orders = base.Set<Order>();
             this.Shipments = base.Set<Shipment>();
