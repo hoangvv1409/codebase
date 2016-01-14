@@ -19,6 +19,7 @@ namespace VinEcom.MobileNotification.Events
         public int ShipmentId { get; set; }
         public long SOID { get; set; }
         public long UserId { get; set; }
+
         public ShipmentState ShipmentState
         {
             get { return ShipmentState.Shipping; }

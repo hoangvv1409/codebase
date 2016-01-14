@@ -21,20 +21,26 @@ namespace VinEcom.MobileNotification.InternalApi.Controllers
             this.notificationService = notificationService;
         }
 
+        /// <summary>
+        /// Push User Activity Notification
+        /// </summary>
+        /// <param name="userModel">User Model</param>
+        /// <returns></returns>
         [Route("notification/users")]
-        public void Post([FromBody]UserModel userModel)
+        public HttpResponseMessage Post([FromBody]UserModel userModel)
         {
-            if (!ModelState.IsValid) return;
+            if (userModel == null) return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "User must be not null");
+            if (!ModelState.IsValid) return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
             if (userModel.UserState >= 5)
             {
                 if (userModel.AdrPoint == null)
                 {
-                    return;
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "AdrPoints is required");
                 }
 
                 if (userModel.UserState >= 6 && userModel.SOID == null)
                 {
-                    return;
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "SOID is required");
                 }
             }
 
@@ -63,11 +69,11 @@ namespace VinEcom.MobileNotification.InternalApi.Controllers
                     user = new User(userModel.UserId, UserState.AdrPointsRefunded, (decimal)userModel.AdrPoint, (long)userModel.SOID);
                     break;
                 default:
-                    user = null;
-                    return;
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Wrong UserState");
             }
 
             this.notificationService.PushUserNotification(user);
+            return new HttpResponseMessage(HttpStatusCode.OK);
         }
     }
 }

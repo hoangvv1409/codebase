@@ -44,3 +44,7 @@ E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Servi
 E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Service\obj\Debug\VinEcom.MobileNotification.Service.csprojResolveAssemblyReference.cache
 E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Service\obj\Debug\VinEcom.MobileNotification.Service.dll
 E:\Projects\codebase\VinEcom.MobileNotification\VinEcom.MobileNotification.Service\obj\Debug\VinEcom.MobileNotification.Service.pdb
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Service\bin\Debug\OneSignalFacade.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Service\bin\Debug\System.Net.Http.Formatting.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Service\bin\Debug\OneSignalFacade.pdb
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.Service\bin\Debug\System.Net.Http.Formatting.xml

@@ -11,6 +11,7 @@ using VinEcom.MobileNotification.Infrastructure.Messaging;
 using VinEcom.MobileNotification.Infrastructure.Messaging.Handling;
 using VinEcom.MobileNotification.Service;
 using VinEcom.MobileNotification.Service.Handlers;
+using System.Configuration;
 
 namespace VinEcom.MobileNotification.ConsoleWorker
 {
@@ -21,7 +22,8 @@ namespace VinEcom.MobileNotification.ConsoleWorker
             UnityContainer container = new UnityContainer();
 
             #region Infrastructure
-            InfrastructureSettings infrastructureSetting = InfrastructureSettings.Read("E:/ADR/Mobile/VinEcom.MobileNotification/VinEcom.MobileNotification.InternalApi/InfrastructureSetting.xml");
+            string serviceBusSetting = ConfigurationManager.AppSettings["ServiceBusSetting"];
+            InfrastructureSettings infrastructureSetting = InfrastructureSettings.Read(serviceBusSetting);
             ServiceBusConfig serviceBusConfig = new ServiceBusConfig(infrastructureSetting.ServiceBus);
             serviceBusConfig.Initialize();
 
@@ -44,11 +46,8 @@ namespace VinEcom.MobileNotification.ConsoleWorker
             #endregion
 
             #region Handler Register
-
             container.RegisterType<IContentGenerator, ContentGenerator>();
-            container.RegisterEventProcessor<OrderEventHandler>(serviceBusConfig, Topics.Events.Subscriptions.Order, false);
-            container.RegisterEventProcessor<ShipmentEventHandler>(serviceBusConfig, Topics.Events.Subscriptions.Shipment, false);
-            container.RegisterEventProcessor<UserEventHandler>(serviceBusConfig, Topics.Events.Subscriptions.User, false);
+            container.RegisterEventProcessor<NotificationGenerateHandler>(serviceBusConfig, Topics.Events.Subscriptions.PushNotification, false);
             #endregion
 
             return container;
@@ -60,7 +59,7 @@ namespace VinEcom.MobileNotification.ConsoleWorker
         /// <summary>
         /// instance name for event sender
         /// </summary>
-        public const string EventMessageSenderName = "transportation/eventsender";
+        public const string EventMessageSenderName = "notification/events";
         public const string MobileNotificationDbContext = "MobileNotificationDbContext";
         public const string NotificationService = "NotificationService";
     }
@@ -76,6 +75,7 @@ namespace VinEcom.MobileNotification.ConsoleWorker
                 public const string Order = "Order";
                 public const string Shipment = "Shipment";
                 public const string User = "User";
+                public const string PushNotification = "PushNotification";
             }
         }
     }

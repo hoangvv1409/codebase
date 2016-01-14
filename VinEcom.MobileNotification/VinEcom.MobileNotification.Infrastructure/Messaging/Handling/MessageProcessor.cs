@@ -133,6 +133,7 @@ namespace VinEcom.MobileNotification.Infrastructure.Messaging.Handling
 
             try
             {
+                Console.WriteLine("Process: " + message.MessageId);
                 ProcessMessage(traceIdentifier, payload, message.MessageId, message.CorrelationId, messageInformation);
             }
             catch (Exception e)

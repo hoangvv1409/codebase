@@ -119,3 +119,4 @@ E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.InternalApi\
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.InternalApi\bin\EntityFramework.SqlServer.dll
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.InternalApi\bin\EntityFramework.SqlServer.xml
 E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.InternalApi\bin\Unity.WebApi.dll
+E:\ADR\Mobile\VinEcom.MobileNotification\VinEcom.MobileNotification.InternalApi\bin\XmlDocument.xml

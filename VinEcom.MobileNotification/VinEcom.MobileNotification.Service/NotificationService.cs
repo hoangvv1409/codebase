@@ -19,6 +19,7 @@ namespace VinEcom.MobileNotification.Service
         public NotificationService(Func<MobileNotificationDbContext> dbContext, IEventBus bus, ITextSerializer textSerializer)
         {
             this.dbContext = dbContext;
+            //this.dbContext = () => new MobileNotificationDbContext("MobileNotification");
             this.bus = bus;
             this.textSerializer = textSerializer;
         }

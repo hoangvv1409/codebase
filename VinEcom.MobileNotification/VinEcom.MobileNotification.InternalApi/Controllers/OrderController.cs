@@ -20,11 +20,16 @@ namespace VinEcom.MobileNotification.InternalApi.Controllers
             this.notificationService = notificationService;
         }
 
-        // POST api/order
+        /// <summary>
+        /// Push Order Activity Notification
+        /// </summary>
+        /// <param name="orderModel">Order Model</param>
+        /// <returns></returns>
         [Route("notification/orders")]
-        public void Post([FromBody]OrderModel orderModel)
+        public HttpResponseMessage Post([FromBody]OrderModel orderModel)
         {
-            if (!ModelState.IsValid) return;
+            if (orderModel == null) return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Order must be not null");
+            if (!ModelState.IsValid) return Request.CreateResponse(HttpStatusCode.BadRequest, ModelState);
 
             Order order = null;
             switch (orderModel.OrderState)
@@ -45,7 +50,7 @@ namespace VinEcom.MobileNotification.InternalApi.Controllers
                     if (orderModel.WarehouseId == null || string.IsNullOrEmpty(orderModel.WarehouseName) ||
                         string.IsNullOrWhiteSpace(orderModel.WarehouseName))
                     {
-                        return;
+                        return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "WarehouseId and WarehouseName are required");
                     }
 
                     order = new Order(orderModel.SOID, orderModel.UserId, OrderState.Arrived, (int)orderModel.WarehouseId, orderModel.WarehouseName);
@@ -54,11 +59,11 @@ namespace VinEcom.MobileNotification.InternalApi.Controllers
                     order = new Order(orderModel.SOID, orderModel.UserId, OrderState.PartiallyCancel);
                     break;
                 default:
-                    order = null;
-                    return;
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Wrong OrderState");
             }
 
             this.notificationService.PushOrderNotification(order);
+            return new HttpResponseMessage(HttpStatusCode.OK);
         }
     }
 }

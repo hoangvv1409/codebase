@@ -19,13 +19,13 @@ namespace VinEcom.MobileNotification
         public string Message { get; set; }
         public int SendStatus { get; set; }
         public int SeenStatus { get; set; }
-        public short Type { get; set; }
+        public short ResourceType { get; set; }
+        public short ResourceState { get; set; }
         public DateTime CreatedTime { get; set; }
         public long AMT { get; set; }
 
         public void Init()
         {
-            Id = Guid.NewGuid();
             CreatedTime = DateTime.Now;
             SeenStatus = 0;
             SendStatus = 0;

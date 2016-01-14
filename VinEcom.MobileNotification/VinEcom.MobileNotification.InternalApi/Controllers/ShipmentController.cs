@@ -19,10 +19,16 @@ namespace VinEcom.MobileNotification.InternalApi.Controllers
             this.notificationService = notificationService;
         }
 
+        /// <summary>
+        /// Push Shipment Activity Notification
+        /// </summary>
+        /// <param name="shipmentModel">Shipment Model</param>
+        /// <returns></returns>
         [Route("notification/shipments")]
-        public void Post([FromBody]ShipmentModel shipmentModel)
+        public HttpResponseMessage Post([FromBody]ShipmentModel shipmentModel)
         {
-            if (!ModelState.IsValid) return;
+            if (shipmentModel == null) return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Shipment must be not null");
+            if (!ModelState.IsValid) return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
 
             Shipment shipment = null;
             switch (shipmentModel.ShipmentState)
@@ -34,17 +40,17 @@ namespace VinEcom.MobileNotification.InternalApi.Controllers
                     if (shipmentModel.WarehouseId == null || string.IsNullOrEmpty(shipmentModel.WarehouseName) ||
                         string.IsNullOrWhiteSpace(shipmentModel.WarehouseName))
                     {
-                        return;
+                        return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "WarehouseId and WarehouseName are required");
                     }
 
                     shipment = new Shipment(shipmentModel.ShipmentId, shipmentModel.SOID, shipmentModel.UserId, ShipmentState.Arrived, (int)shipmentModel.WarehouseId, shipmentModel.WarehouseName);
                     break;
                 default:
-                    shipment = null;
-                    return;
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Wrong ShipmentState");
             }
 
             this.notificationService.PushShipmentNotification(shipment);
+            return new HttpResponseMessage(HttpStatusCode.OK);
         }
     }
 }

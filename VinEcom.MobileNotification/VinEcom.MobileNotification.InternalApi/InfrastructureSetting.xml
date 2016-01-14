@@ -4,10 +4,10 @@
     <ConnectionString>Endpoint=sb://vm-dev-api01.adayroi.uat/Transportation,sb://vm-dev-web01.adayroi.uat/Transportation,sb://vm-dev-db01.adayroi.uat/Transportation;StsEndpoint=https://vm-dev-api01.adayroi.uat:9355/Transportation,https://vm-dev-web01.adayroi.uat:9355/Transportation,https://vm-dev-db01.adayroi.uat:9355/Transportation;RuntimePort=9354;ManagementPort=9355;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=iTuJ8iRt7R8eq33eUaA6UVsJehvxSF1TduUELyb34Tc=</ConnectionString>
     <Topics>
       <Topic Path="notification/events" IsEventBus="true">
-        <Subscription Name="Order" RequiresSession="false"/>
+        <!-- <Subscription Name="Order" RequiresSession="false"/>
         <Subscription Name="Shipment" RequiresSession="false"/>
-        <Subscription Name="User" RequiresSession="false"/>
-		<!-- <Subscription Name="Push" RequiresSession="false"/> -->
+        <Subscription Name="User" RequiresSession="false"/> -->
+		<Subscription Name="PushNotification" RequiresSession="false"/>
       </Topic>
     </Topics>
   </ServiceBus>

@@ -60,10 +60,8 @@
     <Compile Include="ContentGeneratorFixture.cs" />
     <Compile Include="GivenADbContext.cs" />
     <Compile Include="NotificationServiceIntergrationFixture.cs" />
-    <Compile Include="OrderEventHandlerIntergrationFixture.cs" />
+    <Compile Include="NotificationGenerateHandlerHandlerIntergrationFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShipmentEventHandlerIntergrationFixture.cs" />
-    <Compile Include="UserEventHandlerIntergrationFixture.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\VinEcom.MobileNotification.Database\VinEcom.MobileNotification.Database.csproj">

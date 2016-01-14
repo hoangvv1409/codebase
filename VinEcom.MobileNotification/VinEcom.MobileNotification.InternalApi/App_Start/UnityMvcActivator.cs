@@ -28,7 +28,8 @@ namespace VinEcom.MobileNotification.InternalApi.App_Start
             FilterProviders.Providers.Add(new UnityFilterAttributeFilterProvider(container));
 
             #region Infrastructures
-            InfrastructureSettings infrastructureSetting = InfrastructureSettings.Read("E:/ADR/Mobile/VinEcom.MobileNotification/VinEcom.MobileNotification.InternalApi/InfrastructureSetting.xml");
+            string serviceBusSetting = ConfigurationManager.AppSettings["ServiceBusSetting"];
+            InfrastructureSettings infrastructureSetting = InfrastructureSettings.Read(serviceBusSetting);
             ServiceBusConfig serviceBusConfig = new ServiceBusConfig(infrastructureSetting.ServiceBus);
             serviceBusConfig.Initialize();
 
@@ -48,7 +49,6 @@ namespace VinEcom.MobileNotification.InternalApi.App_Start
 
             #region Context
             container.RegisterType<MobileNotificationDbContext>(
-             ConstantValue.MobileNotificationDbContext,
              new InjectionConstructor("MobileNotification"));
             #endregion
 
@@ -75,7 +75,7 @@ namespace VinEcom.MobileNotification.InternalApi.App_Start
         /// <summary>
         /// instance name for event sender
         /// </summary>
-        public const string EventMessageSenderName = "transportation/eventsender";
+        public const string EventMessageSenderName = "notification/events";
         public const string MobileNotificationDbContext = "MobileNotificationDbContext";
         public const string NotificationService = "NotificationService";
     }
@@ -88,7 +88,10 @@ namespace VinEcom.MobileNotification.InternalApi.App_Start
 
             public static class Subscriptions
             {
-                public const string Push = "push";
+                public const string Order = "Order";
+                public const string Shipment = "Shipment";
+                public const string User = "User";
+                public const string PushNotification = "PushNotification";
             }
         }
     }

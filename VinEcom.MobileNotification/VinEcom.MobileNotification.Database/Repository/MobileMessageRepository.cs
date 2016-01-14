@@ -22,6 +22,11 @@ namespace VinEcom.MobileNotification.Database
                 .ToList();
         }
 
+        public MobileMessage GetMessageById(Guid id)
+        {
+            return this.dbContext.MobileMessages.FirstOrDefault(m => m.Id == id);
+        }
+
         public override void Save(MobileMessage aggregate)
         {
             aggregate.Init();

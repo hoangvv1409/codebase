@@ -47,13 +47,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CoreServiceImplement\ContentGenerator.cs" />
-    <Compile Include="Handlers\OrderEventHandler.cs" />
-    <Compile Include="Handlers\ShipmentEventHandler.cs" />
-    <Compile Include="Handlers\UserEventHandler.cs" />
+    <Compile Include="Handlers\NotificationGenerateHandler.cs" />
     <Compile Include="NotificationService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\OneSignalFacade\OneSignalFacade.csproj">
+      <Project>{84ace6dd-1117-4d54-894d-189853855673}</Project>
+      <Name>OneSignalFacade</Name>
+    </ProjectReference>
     <ProjectReference Include="..\VinEcom.MobileNotification.Database\VinEcom.MobileNotification.Database.csproj">
       <Project>{588537be-055e-467d-ba0e-6ae7c0bedee3}</Project>
       <Name>VinEcom.MobileNotification.Database</Name>
@@ -71,9 +73,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="OneSignalService\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
