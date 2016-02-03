@@ -1,9 +1,0 @@
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\bin\Debug\OneSignalFacade.dll
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\bin\Debug\OneSignalFacade.pdb
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\bin\Debug\Newtonsoft.Json.dll
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\bin\Debug\System.Net.Http.Formatting.dll
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\bin\Debug\Newtonsoft.Json.xml
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\bin\Debug\System.Net.Http.Formatting.xml
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\obj\Debug\OneSignalFacade.csprojResolveAssemblyReference.cache
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\obj\Debug\OneSignalFacade.dll
-E:\ADR\Mobile\VinEcom.MobileNotification\OneSignalFacade\obj\Debug\OneSignalFacade.pdb
