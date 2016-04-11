@@ -123,53 +123,878 @@ Thực phẩm 												https://www.adayroi.com/thuc-pham-r591
 			Cà phê										https://www.adayroi.com/ca-phe-c1979
 			Thức uống bổ dưỡng							https://www.adayroi.com/thuc-uong-bo-duong-c1980
 			Thức uống khác								https://www.adayroi.com/thuc-uong-khac-c1981
-Điện máy & Công nghệ
-	Điện thoại - Máy tính bảng
-	Máy tính - Linh phụ kiện
-	Thiết bị nhà bếp
-	Thiết bị an ninh
-	Điện tử - Kỹ thuật sống
-	Điện máy - Điện lạnh - Điện gia dụng
-Thời trang
-	Thời trang nữ
-	Thời trang nam
-	Thời trang trẻ em
-	Phụ kiện
-Sức khỏe & Sắc đẹp
-	Trang điểm
-	Nước hoa
-	Chăm sóc mặt
-	Chăm sóc tóc
-	Chăm sóc toàn thân
-	Mỹ phẩm dành cho nam
-	Chăm sóc cá nhân & sức khỏe
-	Tình dầu & Spa
-	Vitamin & thực phẩm chức năng
-	Dụng cụ thể thao
-		Yoga, thể hình
-		Phụ kiện thể thao
-		Các môn cá nhân
-		Các môn tập thể
-		Đồ dưới nước
-Mẹ & Bé
-	Sữa & Bột cho bé
-	Đồ dùng ăn uống cho bé
-	Vệ sinh chăm sóc cho bé
-	Quần áo sơ sinh
-	Đồ chơi & Đồ dùng trẻ em
-	Xe & các thiết bị an toàn
-	Thời trang cho mẹ
-	Chăm sóc cho mẹ
-Sách & Văn phòng phẩm
+Điện máy & Công nghệ									https://www.adayroi.com/dien-may-cong-nghe-r321
+	Điện thoại - Máy tính bảng							https://www.adayroi.com/dien-thoai-may-tinh-bang-m322
+		Điện thoại di động								https://www.adayroi.com/dien-thoai-di-dong-m323
+			iPhone										https://www.adayroi.com/iphone-c324
+			Điện thoại Android							https://www.adayroi.com/dien-thoai-android-c325
+			Điện thoại Windows & hệ điều hành khác		https://www.adayroi.com/dien-thoai-windows-he-dieu-hanh-khac-c326
+			Điện thoại phổ thông						https://www.adayroi.com/dien-thoai-pho-thong-c327	
+		Máy tính bảng									https://www.adayroi.com/may-tinh-bang-m328
+			iPad										https://www.adayroi.com/ipad-c329
+			Máy tính bảng Android						https://www.adayroi.com/may-tinh-bang-android-c330
+			Máy tính bảng Windows & hệ điều hành khác	https://www.adayroi.com/may-tinh-bang-windows-he-dieu-hanh-khac-c331
+		Đồng hồ thông minh								https://www.adayroi.com/dong-ho-thong-minh-c332
+		Điện thoại cố định								https://www.adayroi.com/dien-thoai-co-dinh-m333
+			Điện thoại để bàn							https://www.adayroi.com/dien-thoai-de-ban-c334
+			Điện thoại kéo dài							https://www.adayroi.com/dien-thoai-keo-dai-c335
+			Điện thoại tổng đài							https://www.adayroi.com/dien-thoai-tong-dai-c336
+		Bộ đàm											https://www.adayroi.com/bo-dam-c337
+		Phụ kiện										https://www.adayroi.com/phu-kien-m338
+			Pin - sạc - sạc dự phòng - dock				https://www.adayroi.com/pin-sac-sac-du-phong-dock-c339
+			Thẻ nhớ										https://www.adayroi.com/the-nho-c340
+			Tai nghe điện thoại - Loa di động			https://www.adayroi.com/tai-nghe-dien-thoai-loa-di-dong-c341
+			Bàn phím rời - bút cảm ứng					https://www.adayroi.com/ban-phim-roi-but-cam-ung-c342
+			SIM điện thoại - SIM 3G						https://www.adayroi.com/sim-dien-thoai-sim-3g-c343
+			Túi - Bao da - ốp							https://www.adayroi.com/tui-bao-da-op-c344
+			Miếng dán màn hình							https://www.adayroi.com/mieng-dan-man-hinh-c345
+			Cáp - bộ chuyển đổi							https://www.adayroi.com/cap-bo-chuyen-doi-c346
+			Phần mềm ứng dụng - diệt virus				https://www.adayroi.com/phan-mem-ung-dung-diet-virus-c347
+			Gói bảo hành & phụ kiện khác				https://www.adayroi.com/goi-bao-hanh-phu-kien-khac-c348
+	Máy tính - Linh phụ kiện							https://www.adayroi.com/may-tinh-linh-phu-kien-m349
+		Máy tính xách tay								https://www.adayroi.com/may-tinh-xach-tay-m350
+			Máy tính xách tay Apple						https://www.adayroi.com/may-tinh-xach-tay-apple-c351
+			Máy tính xách tay Windows & HĐH khác		https://www.adayroi.com/may-tinh-xach-tay-windows-hdh-khac-c352
+		Máy tính để bàn									https://www.adayroi.com/may-tinh-de-ban-m353
+			Desktop										https://www.adayroi.com/desktop-c354
+			Máy tính All in one							https://www.adayroi.com/may-tinh-all-in-one-c355
+		Màn hình máy tính								https://www.adayroi.com/man-hinh-may-tinh-c356
+		Máy chủ và linh kiện máy chủ					https://www.adayroi.com/may-chu-va-linh-kien-may-chu-c357
+		Ổ cứng di động - USB							https://www.adayroi.com/o-cung-di-dong-usb-m358
+			Ổ cứng di động								https://www.adayroi.com/o-cung-di-dong-c359
+			USB flash									https://www.adayroi.com/usb-flash-c360
+			Ổ cứng mạng									https://www.adayroi.com/o-cung-mang-c361
+		Linh kiện máy tính								https://www.adayroi.com/linh-kien-may-tinh-m362
+			Bộ vi xử lý - CPU							https://www.adayroi.com/bo-vi-xu-ly-cpu-c363
+			Bo mạch chủ - Mainboard						https://www.adayroi.com/bo-mach-chu-mainboard-c364
+			Ổ cứng - HDD								https://www.adayroi.com/o-cung-hdd-c365
+			Bộ nhớ trong - RAM							https://www.adayroi.com/bo-nho-trong-ram-c366
+			Ổ đĩa quang - ODD							https://www.adayroi.com/o-dia-quang-odd-c367
+			Card màn hình - VGA							https://www.adayroi.com/card-man-hinh-vga-c368
+			Card âm thanh - bộ giải mã âm thanh			https://www.adayroi.com/card-am-thanh-bo-giai-ma-am-thanh-c369
+			Nguồn - bộ lưu điện							https://www.adayroi.com/nguon-bo-luu-dien-c370
+			Vở máy tính - Case							https://www.adayroi.com/vo-may-tinh-case-c371
+		Loa - tai nghe - webcam							https://www.adayroi.com/loa-tai-nghe-webcam-m372
+			Loa											https://www.adayroi.com/loa-c373
+			Tai nghe máy tính							https://www.adayroi.com/tai-nghe-may-tinh-c374
+			Webcam										https://www.adayroi.com/webcam-c375
+		Bàn phím - Chuột								https://www.adayroi.com/ban-phim-chuot-m376
+			Bàn phím									https://www.adayroi.com/ban-phim-c377
+			Chuột										https://www.adayroi.com/chuot-c378
+			Bàn di chuột								https://www.adayroi.com/ban-di-chuot-c379
+			Bộ bàn phím - chuột							https://www.adayroi.com/bo-ban-phim-chuot-c380	
+		Thiết bị mạng									https://www.adayroi.com/thiet-bi-mang-m381
+			Modem ADSL									https://www.adayroi.com/modem-adsl-c382
+			Bộ phát wifi								https://www.adayroi.com/bo-phat-wifi-c383
+			Bộ chia mạng - switch						https://www.adayroi.com/bo-chia-mang-switch-c384
+			Card mạng - netword card					https://www.adayroi.com/card-mang-network-card-c385
+			USB 3G - USB thu wifi						https://www.adayroi.com/usb-3g-usb-thu-wifi-c386
+		Phụ kiện máy tính								https://www.adayroi.com/phu-kien-may-tinh-m387
+			Balo - túi xách laptop						https://www.adayroi.com/balo-tui-xach-laptop-c388
+			Đế tản nhiệt								https://www.adayroi.com/de-tan-nhiet-c389
+			Cáp - dây nối - bộ chia USB					https://www.adayroi.com/cap-day-noi-bo-chia-usb-c390	
+			Bộ chia tín hiệu							https://www.adayroi.com/bo-chia-tin-hieu-c391
+			Bộ vệ sinh máy								https://www.adayroi.com/bo-ve-sinh-may-c392
+			Pin/sạc laptop								https://www.adayroi.com/pin-sac-laptop-c393
+			Gói bảo hành máy tính & phụ kiện khác		https://www.adayroi.com/goi-bao-hanh-may-tinh-phu-kien-khac-c394
+		Phần mềm										https://www.adayroi.com/phan-mem-m395
+			Hệ điều hành								https://www.adayroi.com/he-dieu-hanh-c396
+			Phần mềm diệt virus							https://www.adayroi.com/phan-mem-diet-virus-c397
+			Phần mềm ứng dụng							https://www.adayroi.com/phan-mem-ung-dung-c398
+		Thiết bị văn phòng								https://www.adayroi.com/thiet-bi-van-phong-m545
+			Máy in										https://www.adayroi.com/may-in-m546
+				Máy in laser							https://www.adayroi.com/may-in-laser-c547
+				Máy in laser màu						https://www.adayroi.com/may-in-laser-mau-c548
+				Máy in laser đa chức năng				https://www.adayroi.com/may-in-laser-da-chuc-nang-c549
+				Máy in phun màu							https://www.adayroi.com/may-in-phun-mau-c550
+				Máy phun đa chức năng					https://www.adayroi.com/may-phun-da-chuc-nang-c551
+				Máy in kim								https://www.adayroi.com/may-in-kim-c552
+			Máy photocopy								https://www.adayroi.com/may-photocopy-c553
+			Máy scan									https://www.adayroi.com/may-scan-c554
+			Máy Fax										https://www.adayroi.com/may-fax-c555
+			Thiết bị trình chiếu						https://www.adayroi.com/thiet-bi-trinh-chieu-c556
+			Máy hủy tài liệu							https://www.adayroi.com/may-huy-tai-lieu-c557
+			Máy chấm công								https://www.adayroi.com/may-cham-cong-c558
+			Máy đóng sách								https://www.adayroi.com/may-dong-sach-c559	
+			Máy ép nhựa									https://www.adayroi.com/may-ep-nhua-c560
+			Bàn cắt giấy								https://www.adayroi.com/ban-cat-giay-c561	
+			Thiết bị trợ giảng							https://www.adayroi.com/thiet-bi-tro-giang-c562
+			Máy đếm tiền								https://www.adayroi.com/may-dem-tien-c563
+			Máy ghi âm									https://www.adayroi.com/may-ghi-am-c564
+			Từ điển điện tử								https://www.adayroi.com/tu-dien-dien-tu-c565
+			Linh phụ kiện máy văn phòng					https://www.adayroi.com/linh-phu-kien-may-van-phong-m566
+				Cartridge máy in						https://www.adayroi.com/cartridge-may-in-c567
+				Mực máy in								https://www.adayroi.com/muc-may-in-c568	
+				Mực máy fax								https://www.adayroi.com/muc-may-fax-c569
+				Giấy fax nhiệt							https://www.adayroi.com/giay-fax-nhiet-c570
+				Giấy in ảnh								https://www.adayroi.com/giay-in-anh-c571
+				Màn chiếu								https://www.adayroi.com/man-chieu-c572
+				Giá treo								https://www.adayroi.com/gia-treo-c573
+			Gói bảo hành & phụ kiện khác				https://www.adayroi.com/goi-bao-hanh-phu-kien-khac-c574
+	Thiết bị nhà bếp									https://www.adayroi.com/thiet-bi-nha-bep-m496
+		Lò, vỉ nướng, lò vi sóng						https://www.adayroi.com/lo-vi-nuong-lo-vi-song-m898
+			Lò nướng									https://www.adayroi.com/lo-nuong-c899	
+			Vỉ nướng điện								https://www.adayroi.com/vi-nuong-dien-c900
+			Lò vi sóng									https://www.adayroi.com/lo-vi-song-c901	
+			Lò nướng bánh mì & sandwich					https://www.adayroi.com/lo-nuong-banh-mi-sandwich-c902
+		Bình nước, ấm nước điện							https://www.adayroi.com/binh-nuoc-am-nuoc-dien-m903
+			Bình đun siêu tốc, ấm nước điện				https://www.adayroi.com/binh-dun-sieu-toc-am-nuoc-dien-c904
+			Bình thủy điện								https://www.adayroi.com/binh-thuy-dien-c905
+			Bình lọc nước								https://www.adayroi.com/binh-loc-nuoc-c906
+			Cây nước nóng lạnh							https://www.adayroi.com/cay-nuoc-nong-lanh-c907
+		Các loại bếp									https://www.adayroi.com/cac-loai-bep-m908
+			Bếp điện									https://www.adayroi.com/bep-dien-c909
+			Bếp từ										https://www.adayroi.com/bep-tu-c910
+			Bếp gas										https://www.adayroi.com/bep-gas-c911
+			Bếp hồng ngoại								https://www.adayroi.com/bep-hong-ngoai-c1472		
+			Bếp cồn										https://www.adayroi.com/bep-con-c1891
+		Các loại máy chế biến							https://www.adayroi.com/cac-loai-may-che-bien-m912
+			Máy làm sữa chua, kem						https://www.adayroi.com/may-lam-sua-chua-kem-c913
+			Máy, dụng cụ làm bánh						https://www.adayroi.com/may-dung-cu-lam-banh-c914
+		Máy xay, máy ép trái cây						https://www.adayroi.com/may-xay-may-ep-trai-cay-m915
+			Máy ép trái cây								https://www.adayroi.com/may-ep-trai-cay-c916
+			Máy xay sinh tố								https://www.adayroi.com/may-xay-sinh-to-c917
+			Máy vắt cam									https://www.adayroi.com/may-vat-cam-c918
+		Nồi, chảo điện									https://www.adayroi.com/noi-chao-dien-m919
+			Nồi cơm điện								https://www.adayroi.com/noi-com-dien-c920
+			Nồi lẩu điện								https://www.adayroi.com/noi-lau-dien-c921
+			Nồi áp suât điện							https://www.adayroi.com/noi-ap-suat-dien-c922
+			Chảo điện									https://www.adayroi.com/chao-dien-c923
+			Máy chiên									https://www.adayroi.com/may-chien-c924
+		Máy pha trà, máy xay cà phê						https://www.adayroi.com/may-pha-tra-may-xay-ca-phe-m925
+			Máy pha cà phê								https://www.adayroi.com/may-pha-ca-phe-c926	
+			Máy xay cà phê								https://www.adayroi.com/may-xay-ca-phe-c927
+			Bình đun trà								https://www.adayroi.com/binh-dun-tra-c928
+		Máy hút mùi, máy hút khói						https://www.adayroi.com/may-hut-mui-may-hut-khoi-m929
+			Máy hút khói								https://www.adayroi.com/may-hut-khoi-c930
+			Máy hút mùi									https://www.adayroi.com/may-hut-mui-c931
+		Máy xay thịt									https://www.adayroi.com/may-xay-thit-c1892
+	Thiết bị an ninh									https://www.adayroi.com/thiet-bi-an-ninh-m581
+		Camera giám sát									https://www.adayroi.com/camera-giam-sat-c582
+		Thiết bị chống trộm								https://www.adayroi.com/thiet-bi-chong-trom-c583
+		Linh phụ kiện thiết bị an ninh					https://www.adayroi.com/linh-phu-kien-thiet-bi-an-ninh-c590	
+	Điện tử - Kỹ thuật sống								https://www.adayroi.com/dien-tu-ky-thuat-so-m1772
+		TV												https://www.adayroi.com/tv-m399
+			TV 4K Ultra HD								https://www.adayroi.com/tv-4k-ultra-hd-c400
+			TV LED/LCD									https://www.adayroi.com/tv-led-lcd-c403
+			TV Plasma									https://www.adayroi.com/tv-plasma-c404
+			Linh phụ kiện TV							https://www.adayroi.com/linh-phu-kien-tv-c406
+			Smart TV									https://www.adayroi.com/smart-tv-c1804
+		Máy ảnh - Quay phim - Thiết bị quang học		https://www.adayroi.com/may-anh-quay-phim-thiet-bi-quang-hoc-m407
+			Máy ảnh										https://www.adayroi.com/may-anh-m408
+				Máy ảnh du lịch							https://www.adayroi.com/may-anh-du-lich-c409
+				Máy ảnh chuyên nghiệp					https://www.adayroi.com/may-anh-chuyen-nghiep-c410	
+				Máy ảnh lấy ngay						https://www.adayroi.com/may-anh-lay-ngay-c1770
+				Máy ảnh bán chuyên						https://www.adayroi.com/may-anh-ban-chuyen-c1771		
+				Máy ảnh mirrorless						https://www.adayroi.com/may-anh-mirrorless-c1856
+				Máy ảnh DSLR							https://www.adayroi.com/may-anh-dslr-c1857
+			Máy quay phim								https://www.adayroi.com/may-quay-phim-m411
+				Máy quay du lịch						https://www.adayroi.com/may-quay-du-lich-c1859
+			Ống nhòm - kính thiên văn					https://www.adayroi.com/ong-nhom-kinh-thien-van-m412
+				Ống nhòm								https://www.adayroi.com/ong-nhom-c413	
+				Kính thiên văn							https://www.adayroi.com/kinh-thien-van-c414
+				Kính viễn vọng							https://www.adayroi.com/kinh-vien-vong-c415
+			Linh phụ kiện máy ảnh						https://www.adayroi.com/linh-phu-kien-may-anh-m416
+				Ống kính								https://www.adayroi.com/ong-kinh-c417	
+				Pin - sạc máy ảnh - máy quay			https://www.adayroi.com/pin-sac-may-anh-may-quay-c418	
+				Thẻ nhớ - đầu đọc thẻ					https://www.adayroi.com/the-nho-dau-doc-the-c419
+				Grip máy ảnh							https://www.adayroi.com/grip-may-anh-c420
+				Kính lọc - filter						https://www.adayroi.com/kinh-loc-filter-c421	
+				Đèn flash - trigger kích đèn			https://www.adayroi.com/den-flash-trigger-kich-den-c422
+				Hood - Loa che nắng						https://www.adayroi.com/hood-loa-che-nang-c423
+				Chân đế - Tripod - Monopod				https://www.adayroi.com/chan-de-tripod-monopod-c424	
+				Remote máy ảnh							https://www.adayroi.com/remote-may-anh-c425
+				Balo - túi xách máy ảnh					https://www.adayroi.com/balo-tui-xach-may-anh-c426
+				Tủ chống ẩm - Hộp chống ẩm				https://www.adayroi.com/tu-chong-am-hop-chong-am-c427
+				Gói bảo hành & phụ kiện máy ảnh khác	https://www.adayroi.com/goi-bao-hanh-phu-kien-may-anh-khac-c428
+				Máy in ảnh								https://www.adayroi.com/may-in-anh-c429
+			Flycam										https://www.adayroi.com/flycam-c1844
+			Máy quay thể thao							https://www.adayroi.com/may-quay-the-thao-c1848
+			Máy in ảnh - Mực và giấy in ảnh				https://www.adayroi.com/may-in-anh-muc-va-giay-in-anh-c1849
+		Thiết bị âm thanh								https://www.adayroi.com/thiet-bi-am-thanh-m430
+			Đầu đĩa										https://www.adayroi.com/dau-dia-m431
+				Đầu bluray								https://www.adayroi.com/dau-bluray-c432
+				Đầu DVD									https://www.adayroi.com/dau-dvd-c433
+				Đầu HD									https://www.adayroi.com/dau-hd-c434
+				Đầu thu kỹ thuật số						https://www.adayroi.com/dau-thu-ky-thuat-so-c435
+				Đầu karaoke								https://www.adayroi.com/dau-karaoke-c436
+				Đầu CD									https://www.adayroi.com/dau-cd-c437
+				Cassette								https://www.adayroi.com/cassette-c438
+			Dàn âm thanh - karaoke						https://www.adayroi.com/dan-am-thanh-kaoraoke-m439
+				Dàn âm thanh hifi						https://www.adayroi.com/dan-am-thanh-hifi-c440
+				Dàn home theater						https://www.adayroi.com/dan-home-theater-c441
+			Loa - amply - micro							https://www.adayroi.com/loa-amply-micro-m443
+				Loa bộ									https://www.adayroi.com/loa-bo-c444
+				Loa stereo								https://www.adayroi.com/loa-stereo-c445
+				Loa center								https://www.adayroi.com/loa-center-c446
+				Loa sound bar							https://www.adayroi.com/loa-sound-bar-c448
+				Loa karaoke								https://www.adayroi.com/loa-karaoke-c449
+				Amply 2 kênh							https://www.adayroi.com/amply-2-kenh-c450
+				Amply đa kênh							https://www.adayroi.com/amply-da-kenh-c451
+				Amply karaoke							https://www.adayroi.com/amply-karaoke-c452
+				Micro									https://www.adayroi.com/micro-c453
+				Mixer									https://www.adayroi.com/mixer-c454
+			Linh phụ kiện âm thanh						https://www.adayroi.com/linh-phu-kien-am-thanh-m455
+				Cáp - dây nối							https://www.adayroi.com/cap-day-noi-c456	
+				Ổ cắm âm thanh							https://www.adayroi.com/o-cam-am-thanh-c457
+				Gói thuê bao - bảo hành & phụ kiện khác https://www.adayroi.com/goi-thue-bao-bao-hanh-phu-kien-khac-c459
+				Giá treo - kệ đặt đầu - màn hình		https://www.adayroi.com/gia-treo-ke-dat-dau-man-hinh-c460	
+			Máy nghe nhạc - Máy ghi âm					https://www.adayroi.com/may-nghe-nhac-may-ghi-am-m461
+				Máy nghe nhạc							https://www.adayroi.com/may-nghe-nhac-c462
+				Máy ghi âm								https://www.adayroi.com/may-ghi-am-c463	
+			Tai nghe									https://www.adayroi.com/tai-nghe-m1850
+				Tai nghe nhét tai						https://www.adayroi.com/tai-nghe-nhet-tai-c1851
+				Tai nghe chụp tai						https://www.adayroi.com/tai-nghe-chup-tai-c1852
+				Tai nghe kèm mic						https://www.adayroi.com/tai-nghe-kem-mic-c1853
+				Tai nghe Bluetooth						https://www.adayroi.com/tai-nghe-bluetooth-c1854
+				Tai nghe game thủ						https://www.adayroi.com/tai-nghe-game-thu-c1855
+			Loa di động									https://www.adayroi.com/loa-di-dong-m1860
+				Loa Subwoofer							https://www.adayroi.com/loa-subwoofer-c1862	
+				Loa có dây								https://www.adayroi.com/loa-co-day-c1863
+				Loa bluetooth							https://www.adayroi.com/loa-bluetooth-c1864
+			Thiết bị âm nhạc điện từ					https://www.adayroi.com/thiet-bi-am-nhac-dien-tu-m1865
+				Thiết bị sân khấu						https://www.adayroi.com/thiet-bi-san-khau-m1876
+					Ánh sáng sân khấu					https://www.adayroi.com/anh-sang-san-khau-c1878
+					Thiết bị xử lý tín hiệu				https://www.adayroi.com/thiet-bi-xu-ly-tin-hieu-c1880
+		Thiết bị chơi game								https://www.adayroi.com/thiet-bi-choi-game-m575
+			Máy chơi game								https://www.adayroi.com/may-choi-game-c576
+			Cần lái - Vô lăng							https://www.adayroi.com/can-lai-vo-lang-c578
+			Đĩa - thẻ game								https://www.adayroi.com/dia-the-game-c579
+			Phụ kiện game								https://www.adayroi.com/phu-kien-game-c580
+			Tay cầm chơi game							https://www.adayroi.com/tay-cam-choi-game-c1847
+		Thiết bị đeo thông minh							https://www.adayroi.com/thiet-bi-deo-thong-minh-c1803
+		Xe điện tự cân bằng								https://www.adayroi.com/xe-dien-tu-can-bang-c1843
+		Kim từ điển										https://www.adayroi.com/kim-tu-dien-c1845
+		Smart TV Box									https://www.adayroi.com/smart-tv-box-c1846
+		Đồ chơi công nghệ								https://www.adayroi.com/do-choi-cong-nghe-m1883
+			Mắt kính thông minh							https://www.adayroi.com/mat-kinh-thong-minh-c1884
+			Thiết bị giám sát thông minh				https://www.adayroi.com/thiet-bi-giam-sat-thong-minh-c1885
+	Điện máy - Điện lạnh - Điện gia dụng				https://www.adayroi.com/dien-may-dien-lanh-dien-gia-dung-m1773
+		Quạt - Điều hòa không khí						https://www.adayroi.com/quat-dieu-hoa-khong-khi-m464
+			Điều hòa									https://www.adayroi.com/dieu-hoa-m465
+				Điều hòa 1 chiều						https://www.adayroi.com/dieu-hoa-1-chieu-c466
+				Điều hòa 2 chiều						https://www.adayroi.com/dieu-hoa-2-chieu-c467
+		Quạt											https://www.adayroi.com/quat-m468
+			Quạt phun sương								https://www.adayroi.com/quat-phun-suong-c469
+			Quạt trần									https://www.adayroi.com/quat-tran-c470
+			Quạt cây									https://www.adayroi.com/quat-cay-c471
+			Quạt bàn									https://www.adayroi.com/quat-ban-c472
+			Quạt treo tường								https://www.adayroi.com/quat-treo-tuong-c473
+			Quạt thông gió								https://www.adayroi.com/quat-thong-gio-c474
+		Máy lọc không khí, máy sưởi ấm, hút ẩm			https://www.adayroi.com/may-loc-khong-khi-may-suoi-am-hut-am-c475
+		Tủ lạnh - Tủ đông - Tủ mát						https://www.adayroi.com/tu-lanh-tu-dong-tu-mat-m477
+			Tủ lạnh 1 cánh								https://www.adayroi.com/tu-lanh-1-canh-c478
+			Tủ lạnh 2 cánh								https://www.adayroi.com/tu-lanh-2-canh-c479
+			Tủ lạnh 3 cánh								https://www.adayroi.com/tu-lanh-3-canh-c480
+			Tủ lạnh 4 cánh								https://www.adayroi.com/tu-lanh-4-canh-c481
+			Tủ lạnh 5 cánh								https://www.adayroi.com/tu-lanh-5-canh-c482
+			Tủ lạnh 6 cánh								https://www.adayroi.com/tu-lanh-6-canh-c483	
+			Tủ lanh side by side						https://www.adayroi.com/tu-lanh-side-by-side-c484	
+			Tủ đông										https://www.adayroi.com/tu-dong-c485
+			Tủ mát										https://www.adayroi.com/tu-mat-c486
+			Tủ rượu										https://www.adayroi.com/tu-ruou-c487
+		Máy giặt - Máy sấy								https://www.adayroi.com/may-giat-may-say-m489	
+			Máy giặt									https://www.adayroi.com/may-giat-m490
+				Máy giặt lồng đứng						https://www.adayroi.com/may-giat-long-dung-c491
+				Máy giặt lồng ngang						https://www.adayroi.com/may-giat-long-ngang-c492
+				Máy giặt lông nghiêng					https://www.adayroi.com/may-giat-long-nghieng-c493
+		Thiết bị vệ sinh - Chăm sóc gia đình			https://www.adayroi.com/thiet-bi-ve-sinh-cham-soc-gia-dinh-m532
+			Máy sấy, máy tạo kiểu tóc					https://www.adayroi.com/may-say-may-tao-kieu-toc-m533
+				Máy sấy tóc								https://www.adayroi.com/may-say-toc-c534
+				Máy tạo kiểu tóc						https://www.adayroi.com/may-tao-kieu-toc-c535
+			Bàn là										https://www.adayroi.com/ban-la-m536
+				Bàn là hơi nước							https://www.adayroi.com/ban-la-hoi-nuoc-c537
+				Bàn là nhiệt							https://www.adayroi.com/ban-la-nhiet-c538
+				Bàn là đứng								https://www.adayroi.com/ban-la-nhiet-c538
+			Máy may										https://www.adayroi.com/may-may-c540	
+			Máy hút bụi									https://www.adayroi.com/may-hut-bui-m541
+				Máy hút bụi tự động						https://www.adayroi.com/may-hut-bui-tu-dong-c542
+				Máy hút bụi cầm tay						https://www.adayroi.com/may-hut-bui-cam-tay-c543
+			Máy đuổi côn trùng							https://www.adayroi.com/may-duoi-con-trung-c544		
+			Dụng cụ, thiết bị y tế						https://www.adayroi.com/dung-cu-thiet-bi-y-te-c1474			
+			Thiết bị khác								https://www.adayroi.com/thiet-bi-khac-c1478											
+		Máy nước nóng									https://www.adayroi.com/may-nuoc-nong-c1167
+		Máy sấy											https://www.adayroi.com/may-say-m1473
+			Máy sấy quần áo								https://www.adayroi.com/may-say-quan-ao-c494
+		Máy lọc nước									https://www.adayroi.com/may-loc-nuoc-c1476							
+		Thiết bị điện khác								https://www.adayroi.com/thiet-bi-dien-khac-c1477			
+		Thiết bị điện thông minh						https://www.adayroi.com/thiet-bi-dien-thong-minh-smart-home-c1968
+Thời trang												https://www.adayroi.com/thoi-trang-r1
+	Thời trang nữ										https://www.adayroi.com/thoi-trang-nu-m2?featured=isPromotion
+		Áo nữ											https://www.adayroi.com/ao-nu-m3
+			Áo sơ mi, áo kiểu nữ						https://www.adayroi.com/ao-so-mi-ao-kieu-nu-m4
+				Áo sơ mi nữ								https://www.adayroi.com/ao-so-mi-nu-c5						
+				Áo kiểu nữ								https://www.adayroi.com/ao-kieu-nu-c6
+			Áo thun, áo hai dây nữ						https://www.adayroi.com/ao-thun-ao-hai-day-nu-m7
+				Áo thun nữ								https://www.adayroi.com/ao-thun-nu-c8
+				Áo hai dây / Áo ba lỗ					https://www.adayroi.com/ao-hai-day-ao-ba-lo-c9
+				Áo Crop-top								https://www.adayroi.com/ao-crop-top-c10
+			Áo len & cardigan nữ						https://www.adayroi.com/ao-len-cardigan-nu-m11
+				Áo len nữ								https://www.adayroi.com/ao-len-nu-c12
+				Áo cardigan nữ							https://www.adayroi.com/ao-cardigan-nu-c13
+			Áo khoác nữ									https://www.adayroi.com/ao-khoac-nu-m14
+				Áo Vest, Blazer nữ						https://www.adayroi.com/ao-vest-blazer-nu-c15
+				Áo khoác kiểu nữ						https://www.adayroi.com/ao-khoac-kieu-nu-c16
+				Áo khoác mùa đông nữ					https://www.adayroi.com/ao-khoac-mua-dong-nu-c17			
+		Quần nữ											https://www.adayroi.com/quan-nu-m18
+			Quần jeans nữ								https://www.adayroi.com/quan-jeans-nu-c19
+			Quần âu, kaki nữ							https://www.adayroi.com/quan-au-kaki-nu-m20
+				Quần âu nữ								https://www.adayroi.com/quan-au-nu-c21
+				Quần kaki nữ							https://www.adayroi.com/quan-kaki-nu-c22					
+				Quần kiểu nữ							https://www.adayroi.com/quan-kieu-nu-c23			
+			Quần lửng, quần shorts nữ					https://www.adayroi.com/quan-lung-quan-shorts-nu-m24
+				Quần lửng nữ							https://www.adayroi.com/quan-lung-nu-c25
+				Quần Shorts nữ							https://www.adayroi.com/quan-shorts-nu-c26
+			Legging & quần tất nữ						https://www.adayroi.com/legging-quan-tat-nu-m27
+				Quần Legging nữ							https://www.adayroi.com/quan-legging-nu-c28
+				Quần tất nữ								https://www.adayroi.com/quan-tat-nu-c29
+		Váy/Đầm											https://www.adayroi.com/vay-dam-m30
+			Chân váy									https://www.adayroi.com/chan-vay-m31
+				Chân váy công sở						https://www.adayroi.com/chan-vay-cong-so-c32
+				Chân váy maxi							https://www.adayroi.com/chan-vay-maxi-c33
+				Chân váy ngắn							https://www.adayroi.com/chan-vay-ngan-c34				
+				Chân váy midi							https://www.adayroi.com/chan-vay-midi-c2043
+			Đầm											https://www.adayroi.com/dam-m35
+				Đầm công sở								https://www.adayroi.com/dam-cong-so-c36					
+				Đầm dạ tiệc								https://www.adayroi.com/dam-da-tiec-c37
+				Đầm dạo phố								https://www.adayroi.com/dam-dao-pho-c38
+				Đầm maxi								https://www.adayroi.com/dam-maxi-c39
+		Jumpsuits & Playsuits							https://www.adayroi.com/jumpsuits-playsuits-c40
+		Đồ ngủ, đồ lót nữ								https://www.adayroi.com/do-ngu-do-lot-nu-m41
+			Áo lót nữ									https://www.adayroi.com/ao-lot-nu-c42
+			Quần lót nữ									https://www.adayroi.com/quan-lot-nu-c43			
+			Đồ ngủ nữ									https://www.adayroi.com/do-ngu-nu-c44
+			Bộ đồ lót									https://www.adayroi.com/bo-do-lot-c1912
+		Tất nữ											https://www.adayroi.com/tat-nu-c45
+		Giày nữ											https://www.adayroi.com/giay-nu-m46
+			Giày Sandals nữ								https://www.adayroi.com/giay-sandals-nu-m47
+				Sandals nữ bệt							https://www.adayroi.com/sandals-nu-bet-c48
+				Sandals nữ cao gót						https://www.adayroi.com/sandals-nu-cao-got-c49
+			Giày cao gót nữ								https://www.adayroi.com/giay-cao-got-nu-c50
+			Giày đế bằng nữ								https://www.adayroi.com/giay-de-bang-nu-m51
+				Giày búp bê nữ							https://www.adayroi.com/giay-bup-be-nu-c52
+				Giày mọi nữ								https://www.adayroi.com/giay-moi-nu-c53
+				Giày Oxford nữ							https://www.adayroi.com/giay-oxford-nu-c54
+			Giày đế xuồng nữ							https://www.adayroi.com/giay-de-xuong-nu-c55
+			Giày Boot nữ								https://www.adayroi.com/giay-boot-nu-c56
+			Dép nữ										https://www.adayroi.com/dep-nu-c57
+			Giày Sneakers nữ							https://www.adayroi.com/giay-sneakers-nu-c1805
+			Giày thể thao nữ							https://www.adayroi.com/giay-the-thao-nu-m2048
+				Giày tennis nữ							https://www.adayroi.com/giay-tennis-nu-c2061
+				Giày cầu lông nữ						https://www.adayroi.com/giay-cau-long-nu-c2062?isRedirect=0
+				Giày đi bộ, chạy bộ nữ					https://www.adayroi.com/giay-di-bo-chay-bo-nu-c2063
+				Giày bóng đá nữ							https://www.adayroi.com/giay-bong-da-nu-c2064?isRedirect=0
+				Giày thể thao nữ khác					https://www.adayroi.com/giay-the-thao-nu-khac-c2065
+		Túi ví nữ										https://www.adayroi.com/tui-vi-nu-m58
+			Ví nữ										https://www.adayroi.com/vi-nu-c59
+			Túi xách nữ									https://www.adayroi.com/tui-xach-nu-c60
+			Túi cầm tay nữ								https://www.adayroi.com/tui-cam-tay-nu-c61	
+			Túi đeo chéo nữ								https://www.adayroi.com/tui-deo-cheo-nu-c62
+			Balo nữ										https://www.adayroi.com/balo-nu-c63
+		Đồng hồ nữ										https://www.adayroi.com/dong-ho-nu-m64
+			Đồng hồ kim nữ								https://www.adayroi.com/dong-ho-kim-nu-c65
+			Đồng hồ điện tử nữ							https://www.adayroi.com/dong-ho-dien-tu-nu-c66
+		Phụ kiện thời trang nữ							https://www.adayroi.com/phu-kien-thoi-trang-nu-m67
+			Trang sức nữ								https://www.adayroi.com/trang-suc-nu-m68
+				Bộ trang sức nữ							https://www.adayroi.com/bo-trang-suc-nu-c69
+				Hoa tai nữ								https://www.adayroi.com/hoa-tai-nu-c70			
+				Nhẫn nữ									https://www.adayroi.com/nhan-nu-c71
+				Dây chuyền/Vòng cổ nữ					https://www.adayroi.com/day-chuyen-vong-co-nu-c72
+				Vòng tay & Lắc chân nữ					https://www.adayroi.com/vong-tay-lac-chan-nu-c73
+			Dây thắt lưng nữ							https://www.adayroi.com/day-that-lung-nu-c75
+			Kính mắt nữ									https://www.adayroi.com/kinh-mat-nu-c76
+			Khăn choàng nữ								https://www.adayroi.com/khan-choang-nu-c77
+			Nón cho nữ									https://www.adayroi.com/non-cho-nu-c78
+			Phụ kiện tóc cho nữ							https://www.adayroi.com/phu-kien-toc-cho-nu-c79
+			Phụ kiện khác cho nữ						https://www.adayroi.com/phu-kien-khac-cho-nu-c80
+		Đồ mặc nhà										https://www.adayroi.com/do-mac-nha-c1913
+		Quần áo thể thao nữ								https://www.adayroi.com/quan-ao-the-thao-nu-m2046
+			Bộ quần áo thể thao							https://www.adayroi.com/bo-quan-ao-the-thao-nu-c2049?isRedirect=0
+			Áo thể thao									https://www.adayroi.com/ao-the-thao-nu-c2050?isRedirect=0
+			Quần thể thao								https://www.adayroi.com/quan-the-thao-nu-c2051?isRedirect=0
+			Trang phục tennis							https://www.adayroi.com/trang-phuc-tennis-nu-c2052
+			Trang phục cầu lông							https://www.adayroi.com/trang-phuc-cau-long-nu-c2053?isRedirect=0
+			Trang phục bóng chuyền						https://www.adayroi.com/trang-phuc-bong-chuyen-nu-c2055?isRedirect=0
+			Trang phục bơi lội							https://www.adayroi.com/trang-phuc-boi-loi-nu-c2058?isRedirect=0	
+			Trang phục golf								https://www.adayroi.com/trang-phuc-golf-nu-c2059?isRedirect=0
+	Thời trang nam										https://www.adayroi.com/thoi-trang-nam-m81
+		Áo sơ mi nam									https://www.adayroi.com/ao-so-mi-nam-c82
+		Áo thun, áo Polo nam							https://www.adayroi.com/ao-thun-ao-polo-nam-m83
+			Áo thun nam									https://www.adayroi.com/ao-thun-nam-c84
+			Áo polo nam									https://www.adayroi.com/ao-polo-nam-c85
+		Quần Jeans nam									https://www.adayroi.com/quan-jeans-nam-c86
+		Quần âu, quần Kaki nam							https://www.adayroi.com/quan-au-quan-kaki-nam-c87
+		Áo khoác blazer nam								https://www.adayroi.com/ao-khoac-blazer-nam-m88
+			Áo Vest, Blazer nam							https://www.adayroi.com/ao-vest-blazer-nam-c89
+			Áo khoác kiểu nam							https://www.adayroi.com/ao-khoac-kieu-nam-c90
+			Áo khoác nam mùa đông						https://www.adayroi.com/ao-khoac-nam-mua-dong-c91
+		Áo len, áo cardigan nam							https://www.adayroi.com/ao-len-ao-cardigan-nam-c92
+		Bộ vest nam										https://www.adayroi.com/bo-vest-nam-c93
+		Quần shorts nam									https://www.adayroi.com/quan-shorts-nam-c94
+		Đồ lót nam										https://www.adayroi.com/do-lot-nam-c95
+		Balo túi ví nam									https://www.adayroi.com/balo-tui-vi-nam-m96
+			Balo nam									https://www.adayroi.com/balo-nam-c97
+			Túi đeo chéo nam							https://www.adayroi.com/tui-deo-cheo-nam-c98
+			Túi xách nam								https://www.adayroi.com/tui-xach-nam-c99
+			Ví bóp nam									https://www.adayroi.com/vi-bop-nam-c100
+			Vali du lịch								https://www.adayroi.com/vali-du-lich-m1297
+				Vali cứng								https://www.adayroi.com/vali-cung-c1298
+				Vali mềm								https://www.adayroi.com/vali-mem-c1299
+				Bộ vali									https://www.adayroi.com/bo-vali-c1300
+				Vali trẻ em								https://www.adayroi.com/vali-tre-em-c1301	
+				Túi du lịch								https://www.adayroi.com/tui-du-lich-c1303
+				Các loại vali khác						https://www.adayroi.com/cac-loai-vali-khac-c1305
+				Balo du lịch							https://www.adayroi.com/balo-du-lich-c1306				
+		Đồng hồ nam										https://www.adayroi.com/dong-ho-nam-m101
+			Đồng hồ điện tử nam							https://www.adayroi.com/dong-ho-dien-tu-nam-c102
+			Đồng hồ kim nam								https://www.adayroi.com/dong-ho-kim-nam-c103
+		Giày, Dép nam									https://www.adayroi.com/giay-dep-nam-m104
+			Dép nam										https://www.adayroi.com/dep-nam-c105
+			Sandals nam									https://www.adayroi.com/sandals-nam-c106
+			Giày Casual nam								https://www.adayroi.com/giay-casual-nam-c107
+			Giày cổ cao nam								https://www.adayroi.com/giay-co-cao-nam-c108
+			Giày lười/giày mọi nam						https://www.adayroi.com/giay-luoi-giay-moi-nam-c109
+			Giày tăng chiều cao nam						https://www.adayroi.com/giay-tang-chieu-cao-nam-c110
+			Giày Tây									https://www.adayroi.com/giay-tay-c111	
+			Giày Sneakers nam							https://www.adayroi.com/giay-sneakers-nam-c112
+			Giày thể thao nam							https://www.adayroi.com/giay-the-thao-nam-m2047
+				Giày tennis nam							https://www.adayroi.com/giay-tennis-nam-c1216
+				Giày cầu lông nam						https://www.adayroi.com/giay-cau-long-nam-c1217
+				Giày đi bộ, chạy bộ nam					https://www.adayroi.com/giay-di-bo-chay-bo-nam-c1218?isRedirect=0
+				Giày bóng rổ nam						https://www.adayroi.com/giay-bong-ro-nam-c1219
+				Giày đá bóng nam						https://www.adayroi.com/giay-da-bong-nam-c1220?isRedirect=0
+				Giày thể thao nam khác					https://www.adayroi.com/giay-the-thao-nam-khac-c1224
+		Dây lưng, Cà vạt & Phụ kiện						https://www.adayroi.com/day-lung-ca-vat-phu-kien-m113
+			Cà vạt & Nơ bướm							https://www.adayroi.com/ca-vat-no-buom-c114
+			Dây thắt lưng nam							https://www.adayroi.com/day-that-lung-nam-c115
+			Kính mát nam								https://www.adayroi.com/kinh-mat-nam-c117
+			Mũ/Nón nam									https://www.adayroi.com/mu-non-nam-c118
+			Phụ kiện khác								https://www.adayroi.com/phu-kien-khac-c119
+			Kính thuốc nam								https://www.adayroi.com/kinh-thuoc-nam-c2031
+			Tất nam										https://www.adayroi.com/tat-nam-c2032
+			Trang sức									https://www.adayroi.com/trang-suc-c2033
+		Quần kiểu nam									https://www.adayroi.com/quan-kieu-nam-c1882
+		Quần áo thể thao nam							https://www.adayroi.com/quan-ao-the-thao-nam-m2045
+			Bộ quần áo thể thao							https://www.adayroi.com/bo-quan-ao-the-thao-nam-c1192?isRedirect=0
+			Áo thể thao									https://www.adayroi.com/ao-the-thao-nam-c1193?isRedirect=0
+			Quần thể thao								https://www.adayroi.com/quan-the-thao-nam-c1194?isRedirect=0
+			Trang phục tennis							https://www.adayroi.com/trang-phuc-tennis-nam-c1195?isRedirect=0
+			Trang phục bóng chuyền						https://www.adayroi.com/trang-phuc-bong-chuyen-nam-c1198?isRedirect=0
+			Trang phục bóng đá							https://www.adayroi.com/trang-phuc-bong-da-nam-c1199
+			Trang phục bơi lội							https://www.adayroi.com/trang-phuc-boi-loi-nam-c1202?isRedirect=0
+			Trang phục golf								https://www.adayroi.com/trang-phuc-golf-nam-c1204?isRedirect=0	
+			Trang phục thể thao khác					https://www.adayroi.com/trang-phuc-the-thao-nam-khac-m1211?isRedirect=0
+				Áo polo									https://www.adayroi.com/ao-polo-nam-c1212?isRedirect=0
+				Áo khoác thể thao						https://www.adayroi.com/ao-khoac-the-thao-nam-c1213?isRedirect=0
+	Thời trang trẻ em									https://www.adayroi.com/thoi-trang-tre-em-m120
+		Thời trang bé gái								https://www.adayroi.com/thoi-trang-be-gai-m121	
+			Váy - đầm bé gái							https://www.adayroi.com/vay-dam-be-gai-c122
+			Áo - quần bé gái							https://www.adayroi.com/ao-quan-be-gai-c123
+			Giày bé gái									https://www.adayroi.com/giay-be-gai-c125	
+			Túi & nón bé gái							https://www.adayroi.com/tui-non-be-gai-c126
+			Kính mắt bé gái								https://www.adayroi.com/kinh-mat-be-gai-c128
+			Phụ kiện bé gái								https://www.adayroi.com/phu-kien-be-gai-c130
+		Thời trang bé trai								https://www.adayroi.com/thoi-trang-be-trai-m131
+			Comple bé trai								https://www.adayroi.com/comple-be-trai-c132
+			Áo - quần bé trai							https://www.adayroi.com/ao-quan-be-trai-c133
+			Giày										https://www.adayroi.com/giay-c136
+			Phụ kiện bé trai							https://www.adayroi.com/phu-kien-be-trai-c138
+Sức khỏe & Sắc đẹp										https://www.adayroi.com/suc-khoe-sac-dep-r139
+	Trang điểm											https://www.adayroi.com/trang-diem-m140
+		Trang điểm mặt									https://www.adayroi.com/trang-diem-mat-m141
+			BB Cream, CC Cream							https://www.adayroi.com/bb-cream-cc-cream-c142
+			kem lót & kem nền							https://www.adayroi.com/kem-lot-kem-nen-c143
+			Phấn nền, phấn phủ							https://www.adayroi.com/phan-nen-phan-phu-c144
+			Phấn tạo khối, phấn nhũ						https://www.adayroi.com/phan-tao-khoi-phan-nhu-c145	
+			Kem che khuyết điểm							https://www.adayroi.com/kem-che-khuyet-diem-c146
+			Phấn má										https://www.adayroi.com/phan-ma-c147
+		Trang điểm mắt									https://www.adayroi.com/trang-diem-mat-m148
+			Màu mắt										https://www.adayroi.com/mau-mat-c149
+			Mascara										https://www.adayroi.com/mascara-c150
+			Kẻ mắt										https://www.adayroi.com/ke-mat-c151
+			Kẻ chân mày									https://www.adayroi.com/ke-chan-may-c152
+			Kem lót trang điểm mắt						https://www.adayroi.com/kem-lot-trang-diem-mat-c153
+		Trang điểm môi									https://www.adayroi.com/trang-diem-moi-m154
+			Son thỏi, son bóng							https://www.adayroi.com/son-thoi-son-bong-c155
+			Son dưỡng									https://www.adayroi.com/son-duong-c156
+			Kẻ viền môi									https://www.adayroi.com/ke-vien-moi-c157
+		Làm đẹp móng									https://www.adayroi.com/lam-dep-mong-m158
+			Sơn móng									https://www.adayroi.com/son-mong-c159
+			Sơn dưỡng móng								https://www.adayroi.com/son-duong-mong-c160
+			Nước tẩy trang móng, dán móng tay			https://www.adayroi.com/nuoc-tay-trang-mong-dan-mong-tay-c161
+		Dụng cụ và phụ kiện trang điểm					https://www.adayroi.com/dung-cu-va-phu-kien-trang-diem-m163
+			Cọ, Bông phấn								https://www.adayroi.com/co-bong-phan-c164
+			Lông mi giả, kéo, dao cạo					https://www.adayroi.com/long-mi-gia-keo-dao-cao-c165
+			Dụng cụ làm móng							https://www.adayroi.com/dung-cu-lam-mong-c166		
+			Dụng cụ làm đẹp								https://www.adayroi.com/dung-cu-lam-dep-c167
+			Dụng cụ chăm sóc tóc						https://www.adayroi.com/dung-cu-cham-soc-toc-c1896
+		Bộ mỹ phẩm										https://www.adayroi.com/bo-my-pham-c168
+	Nước hoa											https://www.adayroi.com/nuoc-hoa-m169							
+		Nước hoa nữ										https://www.adayroi.com/nuoc-hoa-nu-c170
+		Nước hoa nam									https://www.adayroi.com/nuoc-hoa-nam-c171
+		Bộ nước hoa										https://www.adayroi.com/bo-nuoc-hoa-c172
+	Chăm sóc mặt										https://www.adayroi.com/cham-soc-mat-m173
+		Rửa mặt & Tẩy trang								https://www.adayroi.com/rua-mat-tay-trang-m174
+			Sữa rửa mặt									https://www.adayroi.com/sua-rua-mat-c175
+			Nước tẩy trang								https://www.adayroi.com/nuoc-tay-trang-c176
+			Tẩy tế bào chết mặt							https://www.adayroi.com/tay-te-bao-chet-mat-c177
+			Dụng cụ tẩy trang							https://www.adayroi.com/dung-cu-tay-trang-c178
+		Chăm sóc da mặt									https://www.adayroi.com/cham-soc-da-mat-m179
+			Nước hoa hồng								https://www.adayroi.com/nuoc-hoa-hong-c180
+			Dưỡng ẩm ngày & đêm							https://www.adayroi.com/duong-am-ngay-dem-c181
+			Kem trắng da								https://www.adayroi.com/kem-trang-da-c182
+			Kem chống nắng								https://www.adayroi.com/kem-chong-nang-c183
+			Căn bằng độ ẩm, xịt khoáng					https://www.adayroi.com/can-bang-do-am-xit-khoang-c184
+			Serum, Tinh dầu dưỡng da					https://www.adayroi.com/serum-tinh-dau-duong-da-c185
+			Dưỡng da vùng mắt							https://www.adayroi.com/serum-tinh-dau-duong-da-c185
+			Dưỡng da vùng mặt & cổ						https://www.adayroi.com/duong-da-vung-mat-co-c187
+			Mặt nạ										https://www.adayroi.com/mat-na-c188
+		Điều trị da vấn đề								https://www.adayroi.com/dieu-tri-da-van-de-m189
+			Dưỡng da lão hóa							https://www.adayroi.com/duong-da-lao-hoa-c190	
+			Dưỡng da nhạy cảm							https://www.adayroi.com/duong-da-nhay-cam-c191
+			Nám, tàn nhang, đốm nâu						https://www.adayroi.com/nam-tan-nhang-dom-nau-c192			
+			Trị mụn										https://www.adayroi.com/tri-mun-c193	
+			Giảm nếp nhăn mặt							https://www.adayroi.com/giam-nep-nhan-mat-c194
+			Giảm bọng mắt, giảm thâm quầng mắt			https://www.adayroi.com/giam-bong-mat-giam-tham-quang-mat-c195
+		Bộ chăm sóc da mặt								https://www.adayroi.com/bo-cham-soc-da-mat-c196
+	Chăm sóc tóc										https://www.adayroi.com/cham-soc-toc-m197
+		Dầu gội, xả & kem ủ tóc							https://www.adayroi.com/dau-goi-xa-kem-u-toc-m198
+			Dâu gội										https://www.adayroi.com/dau-goi-c199
+			Dầu xả										https://www.adayroi.com/dau-xa-c200
+			Kem ủ tóc									https://www.adayroi.com/kem-u-toc-c201
+		Đặc trị tóc										https://www.adayroi.com/dac-tri-toc-m202
+			Thuốc kích thích mọc tóc					https://www.adayroi.com/thuoc-kich-thich-moc-toc-c203	
+			Tinh dầu dưỡng tóc							https://www.adayroi.com/tinh-dau-duong-toc-c204
+			Phục hồi hư tổn, hấp dầu tóc				https://www.adayroi.com/phuc-hoi-hu-ton-hap-dau-toc-c205
+		Thuốc nhuộm/duỗi/uốn							https://www.adayroi.com/thuoc-nhuom-duoi-uon-m206
+			Gel,wax tạo kiểu, keo xịt tóc				https://www.adayroi.com/gel-wax-tao-kieu-keo-xit-toc-c207
+			Thuốc nhuộm tóc								https://www.adayroi.com/thuoc-nhuom-toc-c208
+			Phụ kiện tóc								https://www.adayroi.com/phu-kien-toc-c209
+		Bộ chăm sóc tóc									https://www.adayroi.com/bo-cham-soc-toc-c210
+	Chăm sóc toàn thân									https://www.adayroi.com/cham-soc-toan-than-m211
+		Dưỡng toàn thân									https://www.adayroi.com/duong-toan-than-m212
+			Sữa dưỡng thể								https://www.adayroi.com/sua-duong-the-c213
+			Kem trị rạn nứt da							https://www.adayroi.com/kem-tri-ran-nut-da-c214
+			Kem dưỡng tay & chân						https://www.adayroi.com/kem-duong-tay-chan-c215
+			Tinh dầu dưỡng và massage					https://www.adayroi.com/tinh-dau-duong-massage-toan-than-c216
+			Kem chống nắng								https://www.adayroi.com/kem-chong-nang-c217
+			Lăn khử mùi, xịt toàn thân					https://www.adayroi.com/lan-khu-mui-xit-toan-than-c218
+		Tắm												https://www.adayroi.com/tam-m219
+			Sữa tắm, xà phòng tắm						https://www.adayroi.com/sua-tam-xa-phong-tam-c220
+			Tẩy tế bào chết toàn thân					https://www.adayroi.com/tay-te-bao-chet-toan-than-c221
+			Muối tắm, tinh dầu tắm						https://www.adayroi.com/muoi-tam-tinh-dau-tam-c222					
+			Phụ kiện tắm								https://www.adayroi.com/phu-kien-tam-c223
+		Bộ chăm sóc toàn thân							https://www.adayroi.com/bo-cham-soc-toan-than-c224
+	Mỹ phẩm dành cho nam								https://www.adayroi.com/my-pham-danh-cho-nam-m225
+		Chăm sóc mặt cho nam							https://www.adayroi.com/cham-soc-mat-cho-nam-m227
+			Dưỡng da mặt cho nam						https://www.adayroi.com/duong-da-mat-cho-nam-c228
+			Dưỡng da vấn đề cho nam						https://www.adayroi.com/duong-da-van-de-cho-nam-c230
+			Kem cạo râu, nước dưỡng cạo râu				https://www.adayroi.com/kem-cao-rau-nuoc-duong-cao-rau-c231	
+		Chăm sóc tóc cho nam							https://www.adayroi.com/cham-soc-toc-cho-nam-m232
+			Gel tóc, wax tạo kiểu cho nam				https://www.adayroi.com/gel-toc-wax-tao-kieu-cho-nam-c233
+			Dầu gội nam									https://www.adayroi.com/dau-goi-nam-c236
+		Chăm sóc toàn thân cho nam						https://www.adayroi.com/cham-soc-toan-than-cho-nam-m238
+			Sữa tắm, xà phòng tắm cho nam				https://www.adayroi.com/sua-tam-xa-phong-tam-cho-nam-c239
+			Lăn khử mùi, xịt toàn thân					https://www.adayroi.com/lan-khu-mui-xit-toan-than-c241
+	Chăm sóc cá nhân & sức khỏe							https://www.adayroi.com/cham-soc-ca-nhan-suc-khoe-m242
+		Chăm sóc răng miệng								https://www.adayroi.com/cham-soc-rang-mieng-m243
+			Bàn chải đánh răng							https://www.adayroi.com/ban-chai-danh-rang-c244
+			Kem đánh răng, kem trắng răng				https://www.adayroi.com/kem-danh-rang-kem-trang-rang-c245
+			Nước súc miệng								https://www.adayroi.com/nuoc-suc-mieng-c246
+			Chỉ nha khoa, xịt thơm miệng				https://www.adayroi.com/chi-nha-khoa-xit-thom-mieng-c247		
+		Dao cạo râu điện								https://www.adayroi.com/dao-cao-rau-dien-c248
+		Máy rửa mặt/massage cá nhân						https://www.adayroi.com/may-rua-mat-massage-ca-nhan-c249
+		Dụng cụ & thiết bị y tế							https://www.adayroi.com/dung-cu-thiet-bi-y-te-m250
+			Nhiệt kế									https://www.adayroi.com/nhiet-ke-c251
+			Máy đo huyết áp								https://www.adayroi.com/may-do-huyet-ap-c252
+			Máy đo đường huyết							https://www.adayroi.com/may-do-duong-huyet-c253
+			Máy đo nhịp tim								https://www.adayroi.com/may-do-nhip-tim-c254
+			Các loại máy y tế khác						https://www.adayroi.com/cac-loai-may-y-te-khac-c255
+			Que thử thai, bút thử thai					https://www.adayroi.com/que-thu-thai-but-thu-thai-c256
+			Cân sức khỏe								https://www.adayroi.com/can-suc-khoe-c257
+		Đồ dùng chăm sóc cá nhân						https://www.adayroi.com/do-dung-cham-soc-ca-nhan-m258
+			Băng cá nhân								https://www.adayroi.com/bang-ca-nhan-c260
+			Dao cạo										https://www.adayroi.com/dao-cao-c261
+		Chăm sóc phụ nữ									https://www.adayroi.com/cham-soc-phu-nu-m262
+			Băng vệ sinh								https://www.adayroi.com/bang-ve-sinh-c263
+			Dung dịch vệ sinh phụ nữ					https://www.adayroi.com/dung-dich-ve-sinh-phu-nu-c264
+			Sản phẩm tẩy lông							https://www.adayroi.com/san-pham-tay-long-c265
+			Kem nở ngực, săn chắc ngực					https://www.adayroi.com/kem-no-nguc-san-chac-nguc-c1897
+			Các sản phẩm chăm sóc khác					https://www.adayroi.com/cac-san-pham-cham-soc-khac-c1898
+		Sản phẩm hỗ trợ tình dục						https://www.adayroi.com/san-pham-ho-tro-tinh-duc-m266	
+			Bao cao su									https://www.adayroi.com/bao-cao-su-c267
+			Gel bôi trơn								https://www.adayroi.com/gel-boi-tron-c268
+			Các sản phẩm hỗ trợ khác					https://www.adayroi.com/cac-san-pham-ho-tro-khac-c269
+		Máy và thiết bị y tế							https://www.adayroi.com/may-va-thiet-bi-y-te-m1899
+			Thiết bị theo dõi sức khỏe					https://www.adayroi.com/thiet-bi-theo-doi-suc-khoe-c1900
+			Chăm sóc chấn thương						https://www.adayroi.com/cham-soc-chan-thuong-c1901
+			Dụng cụ sơ cứu								https://www.adayroi.com/dung-cu-so-cuu-c1902
+			Dụng cụ chăm sóc sức khỏe					https://www.adayroi.com/dung-cu-cham-soc-suc-khoe-c1903	
+			Cân & phân tích lượng mỡ cơ thể				https://www.adayroi.com/can-phan-tich-luong-mo-co-the-c1904
+		Chăm sóc người lớn tuổi							https://www.adayroi.com/cham-soc-nguoi-lon-tuoi-c2029
+	Tình dầu & Spa										https://www.adayroi.com/tinh-dau-spa-m270
+		Tinh dầu										https://www.adayroi.com/tinh-dau-m271
+			Tinh dầu xông & thăng hương					https://www.adayroi.com/tinh-dau-xong-thang-huong-c272
+			Tinh dầu dành cho mặt						https://www.adayroi.com/tinh-dau-danh-cho-mat-c273
+			Dầu massage toàn thân						https://www.adayroi.com/dau-massage-toan-than-c274
+			Tinh dầu dưỡng da tay & chân				https://www.adayroi.com/tinh-dau-duong-da-tay-chan-c275
+		Nến thơm & Spa									https://www.adayroi.com/nen-thom-spa-m276
+			Nến/sáp/que thơm							https://www.adayroi.com/nen-sap-que-thom-c277
+			Nến spa hương liệu							https://www.adayroi.com/nen-spa-huong-lieu-c278
+			Nến tealight								https://www.adayroi.com/nen-tealight-c279
+			Sáp thơm, que thơm							https://www.adayroi.com/sap-thom-que-thom-c280
+			Túi chườm thư giãn							https://www.adayroi.com/tui-chuom-thu-gian-c281
+			Cao dán giải độc							https://www.adayroi.com/cao-dan-giai-doc-c282
+		Phụ kiện thư giãn								https://www.adayroi.com/phu-kien-thu-gian-m283
+			Đèn xông hương								https://www.adayroi.com/den-xong-huong-c284
+			Đèn thăng hương								https://www.adayroi.com/den-thang-huong-c285
+		Bộ sản phẩm tinh dầu & spa						https://www.adayroi.com/bo-san-pham-tinh-dau-spa-c286
+	Vitamin & thực phẩm chức năng						https://www.adayroi.com/vitamin-thuc-pham-chuc-nang-m287
+		Thực phẩm chăm sóc sức khỏe						https://www.adayroi.com/thuc-pham-cham-soc-suc-khoe-m289
+			Bổ sung sức khỏe							https://www.adayroi.com/bo-sung-suc-khoe-c290
+			Xương & khớp								https://www.adayroi.com/xuong-khop-c291
+			Tim & Cholesterol							https://www.adayroi.com/tim-cholesterol-c292
+			Chống lão hóa & Oxy hóa						https://www.adayroi.com/chong-lao-hoa-oxy-hoa-c293
+			Giảo độc gan								https://www.adayroi.com/giai-doc-gan-c294
+			Hỗ trợ hệ miễn dịch							https://www.adayroi.com/ho-tro-he-mien-dich-c295			
+			Phụ nữ & thời kì mãn kinh					https://www.adayroi.com/phu-nu-thoi-ky-man-kinh-c296			
+			Não & trí nhớ								https://www.adayroi.com/nao-tri-nho-c297
+			Thực phẩm hỗ trợ tình dục					https://www.adayroi.com/thuc-pham-ho-tro-tinh-duc-c298
+		Thực phẩm giảm & Tăng cân						https://www.adayroi.com/thuc-pham-giam-tang-can-m299
+			Thực phẩm ăn kiêng							https://www.adayroi.com/thuc-pham-an-kieng-c300
+			Thực phẩm giảm cân							https://www.adayroi.com/thuc-pham-giam-can-c301
+			Thực phẩm tăng cân							https://www.adayroi.com/thuc-pham-tang-can-c302
+		Thực phẩm chức năng làm đẹp						https://www.adayroi.com/thuc-pham-chuc-nang-lam-dep-m303
+			Thực phẩm cải thiện vòng 1					https://www.adayroi.com/thuc-pham-cai-thien-vong-1-c304
+			Thực phẩm bổ sung làm đẹp da				https://www.adayroi.com/thuc-pham-bo-sung-lam-dep-da-c305
+			Thực phẩm bổ sung cho tóc & móng			https://www.adayroi.com/thuc-pham-bo-sung-cho-toc-mong-c306	
+		Vitamin & sản phẩm dinh dưỡng					https://www.adayroi.com/vitamin-san-pham-dinh-duong-m307
+			Cung cấp canxi								https://www.adayroi.com/cung-cap-canxi-c308
+			Dầu cá & Omega								https://www.adayroi.com/dau-ca-omega-c309
+			Protein										https://www.adayroi.com/protein-c310			
+			Sữa ong chúa								https://www.adayroi.com/sua-ong-chua-c311	
+			Thảo dược									https://www.adayroi.com/thao-duoc-c312
+			Vitamin chăm sóc da, tóc, móng				https://www.adayroi.com/vitamin-cham-soc-da-toc-mong-c313
+			Vitamin tổng hợp, trái cây					https://www.adayroi.com/vitamin-tong-hop-trai-cay-c314
+			Vitamin từ A-Z								https://www.adayroi.com/vitamin-tu-a-z-c315
+			Sản phẩm dinh dưỡng khác					https://www.adayroi.com/san-pham-dinh-duong-khac-c1905
+		Thực phẩm bổ dưỡng								https://www.adayroi.com/thuc-pham-bo-duong-m316
+			Tổ yến										https://www.adayroi.com/to-yen-c317
+			Nấm linh chi								https://www.adayroi.com/nam-linh-chi-c318
+			Hồng sâm									https://www.adayroi.com/hong-sam-c319		
+	Dụng cụ thể thao									https://www.adayroi.com/dung-cu-the-thao-m2067
+		Yoga, thể hình									https://www.adayroi.com/yoga-the-hinh-m1249
+			Yoga										https://www.adayroi.com/yoga-m1250
+				Thảm yoga								https://www.adayroi.com/tham-yoga-c1251
+				Bóng yoga								https://www.adayroi.com/bong-yoga-c1252
+				Dây băng								https://www.adayroi.com/day-bang-c1253
+				Phụ kiện yoga khác						https://www.adayroi.com/phu-kien-yoga-khac-c1256
+			Pilate										https://www.adayroi.com/pilate-m1257
+				Ghế tập									https://www.adayroi.com/ghe-tap-c1258
+				Băng cổ tay								https://www.adayroi.com/bang-co-tay-c1259
+				Dụng cụ hỗ trợ các bài tập lưng			https://www.adayroi.com/dung-cu-ho-tro-cac-bai-tap-lung-c1260	
+			Tạ thể hình									https://www.adayroi.com/ta-the-hinh-m1261
+				Tạ tay									https://www.adayroi.com/ta-tay-c1262
+				Tạ đĩa									https://www.adayroi.com/ta-dia-c1263
+				Đòn tạ									https://www.adayroi.com/don-ta-c1264
+				Giàn tạ									https://www.adayroi.com/gian-ta-c1265
+				Giá để tạ								https://www.adayroi.com/gia-de-ta-c1266
+			Máy chạy									https://www.adayroi.com/may-chay-m1267
+				Máy chạy cơ								https://www.adayroi.com/may-chay-co-c1268
+				Máy chạy điện							https://www.adayroi.com/may-chay-dien-c1269
+				Máy đi, chạy bộ trên không				https://www.adayroi.com/may-di-chay-bo-tren-khong-c1270	
+			Máy tập										https://www.adayroi.com/may-tap-m1271
+				Máy tập cơ bụng							https://www.adayroi.com/may-tap-co-bung-c1272
+				Xe đạp tập								https://www.adayroi.com/xe-dap-tap-c1273
+				Ghế tập bụng							https://www.adayroi.com/ghe-tap-bung-c1274
+				Xà đơn									https://www.adayroi.com/xa-don-c1277
+				Các loại máy thể hình khác				https://www.adayroi.com/cac-loai-may-the-hinh-khac-c1279
+				Các loại phụ kiện tập luyện				https://www.adayroi.com/cac-loai-phu-kien-tap-luyen-c1280
+			Dụng cụ tập luyện khác						https://www.adayroi.com/dung-cu-tap-luyen-khac-c1282
+		Phụ kiện thể thao								https://www.adayroi.com/phu-kien-the-thao-m1307
+			Nón thể thao								https://www.adayroi.com/non-the-thao-c1308
+			Đồng hồ thể thao							https://www.adayroi.com/dong-ho-the-thao-c1309	
+			Kính thể thao								https://www.adayroi.com/kinh-the-thao-c1310
+			Khăn thể thao								https://www.adayroi.com/khan-the-thao-c1311
+			Phụ kiện bóng đá							https://www.adayroi.com/phu-kien-bong-da-c1312
+			Phụ kiện bóng rổ							https://www.adayroi.com/phu-kien-bong-ro-c1313
+			Phụ kiện tập gym							https://www.adayroi.com/phu-kien-tap-gym-c1314	
+			Tất, vớ thể thao							https://www.adayroi.com/tat-vo-the-thao-c1315
+			Phụ kiện thể thao khác						https://www.adayroi.com/phu-kien-the-thao-khac-c1316	
+		Các môn cá nhân									https://www.adayroi.com/cac-mon-ca-nhan-m1326
+			Tennis										https://www.adayroi.com/tennis-m1327
+				Vợt										https://www.adayroi.com/vot-c1328
+				Bóng									https://www.adayroi.com/bong-c1329
+				Phụ kiện thể thao cá nhân				https://www.adayroi.com/phu-kien-the-thao-ca-nhan-c1330
+			Bóng bàn									https://www.adayroi.com/bong-ban-m1331
+				Bàn bóng bàn							https://www.adayroi.com/ban-bong-ban-c1332
+				Vợt										https://www.adayroi.com/vot-c1333
+				Bóng									https://www.adayroi.com/bong-c1334
+				Phụ kiện bóng bàn						https://www.adayroi.com/phu-kien-bong-ban-c1335
+			Cầu lông									https://www.adayroi.com/cau-long-m1336
+				Quả cầu lông							https://www.adayroi.com/qua-cau-long-c1337						
+				Vợt cầu lông							https://www.adayroi.com/vot-cau-long-c1338
+				Phụ kiện cầu lông						https://www.adayroi.com/phu-kien-cau-long-c1339
+			Bơi lội										https://www.adayroi.com/boi-loi-m1340
+				Kính bơi								https://www.adayroi.com/kinh-boi-c1341
+				Nón bơi									https://www.adayroi.com/non-boi-c1342
+				Áo phao									https://www.adayroi.com/ao-phao-c1343	
+				Phụ kiện bơi lội						https://www.adayroi.com/phu-kien-boi-loi-c1344
+			Golf										https://www.adayroi.com/golf-m1345
+				Gậy chơi golf							https://www.adayroi.com/gay-choi-golf-c1346
+				Bóng golf								https://www.adayroi.com/bong-golf-c1347		
+				Mũ golf									https://www.adayroi.com/mu-golf-c1348
+				Túi golf								https://www.adayroi.com/tui-golf-c1350
+				Các phụ kiện golf khác					https://www.adayroi.com/cac-phu-kien-golf-khac-c1352	
+			Patin, ván trượt							https://www.adayroi.com/patin-van-truot-m1360	
+				Giày patin								https://www.adayroi.com/giay-patin-c1361
+				Ván trượt								https://www.adayroi.com/van-truot-c1362
+				Phụ kiện patin, ván trượt				https://www.adayroi.com/phu-kien-patin-van-truot-c1363	
+			Võ thuật									https://www.adayroi.com/vo-thuat-c1364
+		Các môn tập thể									https://www.adayroi.com/cac-mon-tap-the-m1365
+			Bóng đá										https://www.adayroi.com/bong-da-m1366
+				Bóng, phụ kiện							https://www.adayroi.com/bong-phu-kien-c1367
+				Dụng cụ thi đấu, tập luyện				https://www.adayroi.com/dung-cu-thi-dau-tap-luyen-c1368
+			Bóng chuyền									https://www.adayroi.com/bong-chuyen-c1370
+		Đồ dưới nước									https://www.adayroi.com/do-duoi-nuoc-m1371
+			Thuyền kayak								https://www.adayroi.com/thuyen-kayak-m1378
+Mẹ & Bé													https://www.adayroi.com/me-be-r714
+	Sữa & Bột cho bé									https://www.adayroi.com/sua-bot-cho-be-m715					
+		Sữa												https://www.adayroi.com/sua-m716
+			Sữa cho trẻ 0 - 12 tháng					https://www.adayroi.com/sua-cho-tre-0-12-thang-c717
+			Sữa cho trẻ 1- 3 tuổi						https://www.adayroi.com/sua-cho-tre-1-3-tuoi-c718
+			Sữa từ 3 tuổi trở lên						https://www.adayroi.com/sua-tu-3-tuoi-tro-len-c719
+			Sữa dành cho bé biếng ăn					https://www.adayroi.com/sua-danh-cho-be-bieng-an-c721
+		Bột & thực phẩm dinh dưỡng						https://www.adayroi.com/bot-thuc-pham-dinh-duong-m723
+			Bột/Cháo/Súp ăn dặm							https://www.adayroi.com/bot-chao-sup-an-dam-c724
+			Trái cây nghiền/nước ép trái cây			https://www.adayroi.com/trai-cay-nghien-nuoc-ep-trai-cay-c725	
+			Thức ăn dinh dưỡng đóng lọ					https://www.adayroi.com/thuc-an-dinh-duong-dong-lo-c726	
+			Vitamin										https://www.adayroi.com/vitamin-c729
+			Trà thảo dược cho bé						https://www.adayroi.com/tra-thao-duoc-cho-be-c730
+			Thực phẩm dinh dưỡng khác					https://www.adayroi.com/thuc-pham-dinh-duong-khac-c731
+	Đồ dùng ăn uống cho bé								https://www.adayroi.com/do-dung-an-uong-cho-be-m732
+		Bình sữa										https://www.adayroi.com/binh-sua-c733
+		Núm vú các loại									https://www.adayroi.com/num-vu-cac-loai-c734
+		Bình tập ăn										https://www.adayroi.com/binh-tap-an-c735
+		Bình uống nước									https://www.adayroi.com/binh-uong-nuoc-c736
+		Yếm ăn											https://www.adayroi.com/yem-an-c737
+		Bộ đồ ăn/uống cho bé							https://www.adayroi.com/bo-do-an-uong-cho-be-m738
+			Bát/Tô/Chén									https://www.adayroi.com/bat-to-chen-c740
+			Thìa/Dĩa/Đũa								https://www.adayroi.com/thia-dia-dua-c741
+			Ly/Cốc										https://www.adayroi.com/ly-coc-c742
+			Bộ đồ ăn dặm								https://www.adayroi.com/bo-do-an-dam-c1906
+		Bình ủ sữa										https://www.adayroi.com/binh-u-sua-c743
+		Máy hâm nóng sữa/Máy tiệt trùng sữa				https://www.adayroi.com/may-ham-nong-sua-may-tiet-trung-binh-sua-c744
+		Nước rửa & dụng cụ rửa bình sữa					https://www.adayroi.com/nuoc-rua-dung-cu-rua-binh-sua-c746
+		Máy hút sữa										https://www.adayroi.com/may-hut-sua-c747
+		Dụng cụ chế biến thức ắn						https://www.adayroi.com/dung-cu-che-bien-thuc-an-c1907
+	Vệ sinh chăm sóc cho bé								https://www.adayroi.com/ve-sinh-cham-soc-cho-be-m748
+		Khăn gạc, đồ dùng sơ sinh						https://www.adayroi.com/khan-gac-do-dung-so-sinh-m749
+			Khăn mặt/Khăn xô/Khăn sữa					https://www.adayroi.com/khan-mat-khan-xo-khan-sua-c750
+			Khăn tắm/Khăn trùm em bé					https://www.adayroi.com/khan-tam-khan-trum-em-be-c751
+			Khăn trùm em bé								https://www.adayroi.com/khan-trum-em-be-c752
+			Tã vải em bé								https://www.adayroi.com/ta-vai-em-be-c753
+			Yếm đeo cổ									https://www.adayroi.com/yem-deo-co-c754
+			Bông gòn/Tăm bông							https://www.adayroi.com/bong-gon-tam-bong-c757
+		Chăm sóc da cho bé								https://www.adayroi.com/cham-soc-da-cho-be-m758
+			Dầu gội										https://www.adayroi.com/dau-goi-c759
+			Sữa tắm										https://www.adayroi.com/sua-tam-c760
+			Phấn rôm/Dầu thơm							https://www.adayroi.com/phan-rom-dau-thom-c761
+			Sản phẩm toàn thân - Top to Toe				https://www.adayroi.com/san-pham-toan-than-top-to-toe-c763	
+			Kem chống hăm								https://www.adayroi.com/kem-chong-ham-c764
+			Bộ mỹ phẩm									https://www.adayroi.com/bo-my-pham-c765
+			Kem/Xịt chống côn trùng						https://www.adayroi.com/kem-xit-chong-con-trung-c766	
+		Vệ sinh cho bé									https://www.adayroi.com/ve-sinh-cho-be-m768
+			Tã - Bỉm cho bé								https://www.adayroi.com/ta-bim-cho-be-c769			
+			Khăn giấy ướt								https://www.adayroi.com/khan-giay-uot-c770		
+			Thau tắm và phụ kiện phòng tắm				https://www.adayroi.com/thau-tam-va-phu-kien-phong-tam-c771	
+			Bô vệ sinh									https://www.adayroi.com/bo-ve-sinh-c772		
+			Bàn chải & Kem đánh răng					https://www.adayroi.com/ban-chai-kem-danh-rang-c773			
+			Kem đánh răng								https://www.adayroi.com/kem-danh-rang-c774
+			Miếng cắn răng / gặm nướu					https://www.adayroi.com/mieng-can-rang-gam-nuou-c775
+			Dụng cụ vệ sinh cho bé						https://www.adayroi.com/dung-cu-ve-sinh-cho-be-c1908
+		Vệ sinh áo quần cho bé							https://www.adayroi.com/ve-sinh-ao-quan-cho-be-m776
+			Bột giặt/Nước giặt							https://www.adayroi.com/bot-giat-nuoc-giat-c778
+			Nước xả vải									https://www.adayroi.com/nuoc-xa-vai-c779
+	Quần áo sơ sinh										https://www.adayroi.com/quan-ao-so-sinh-duoi-36-thang-tuoi-m780
+		Áo cho bé										https://www.adayroi.com/ao-cho-be-c781
+		Quần cho bé										https://www.adayroi.com/quan-cho-be-c782
+		Đồ bộ/Áo liền quần cho bé						https://www.adayroi.com/do-bo-ao-lien-quan-cho-be-c783
+		Giày - Dép - Nón								https://www.adayroi.com/giay-dep-non-c785
+		Bao tay - Khăn choàng - Vớ						https://www.adayroi.com/bao-tay-khan-choang-vo-c786
+		Yếm - Tã quần									https://www.adayroi.com/yem-ta-quan-c787
+	Đồ chơi & Đồ dùng trẻ em							https://www.adayroi.com/do-choi-do-dung-tre-em-m789
+		Đồ chơi											https://www.adayroi.com/do-choi-m790
+			Đồ chơi ngoài trời							https://www.adayroi.com/do-choi-ngoai-troi-c791
+			Đồ chơi gỗ									https://www.adayroi.com/do-choi-go-c792
+			Đồ chơi bằng bông							https://www.adayroi.com/do-choi-bang-bong-c793
+			Đồ chơi âm nhạc								https://www.adayroi.com/do-choi-am-nhac-c794
+			Đồ chơi lắp ráp								https://www.adayroi.com/do-choi-lap-rap-c795
+			Búp bê/Siêu nhân/Rô bốt						https://www.adayroi.com/bup-be-sieu-nhan-ro-bot-c796
+			Xe mô hình									https://www.adayroi.com/xe-mo-hinh-c797
+			Đồ chơi giáo dục							https://www.adayroi.com/do-choi-giao-duc-c798
+			Các loại cờ									https://www.adayroi.com/cac-loai-co-c799
+			Đồ chơi nhà tắm, hồ bơi & bãi biển			https://www.adayroi.com/do-choi-nha-tam-ho-boi-bai-bien-c800
+			Bập bênh									https://www.adayroi.com/bap-benh-c801
+			Thảm chơi									https://www.adayroi.com/tham-choi-c802
+			Đồ chơi bột nặn								https://www.adayroi.com/do-choi-bot-nan-c803
+			Đồ chơi khác								https://www.adayroi.com/do-choi-khac-c805
+			Đồ chơi thủ công/Nghệ thuật					https://www.adayroi.com/do-choi-thu-cong-nghe-thuat-c1909
+			Đồ chơi nhập vai							https://www.adayroi.com/do-choi-nhap-vai-c1910
+			Đồ chơi LEGO								https://www.adayroi.com/do-choi-lego-m2068
+		Ghế & Bàn										https://www.adayroi.com/ghe-ban-m806
+			Ghế/Ghế rung								https://www.adayroi.com/ghe-ghe-rung-c808
+			Các loại ghế, bàn khác						https://www.adayroi.com/cac-loai-ghe-ban-khac-c811
+			Ghế, bàn cho bé tập ăn						https://www.adayroi.com/ghe-ban-cho-be-tap-an-c812
+			Ghế, bàn cho bé ngồi học					https://www.adayroi.com/ghe-ban-cho-be-ngoi-hoc-c813
+		Giường & Tủ kệ									https://www.adayroi.com/giuong-tu-ke-m814
+			Giường/Nôi/Cũi								https://www.adayroi.com/giuong-noi-cui-c815
+			Tủ quần áo									https://www.adayroi.com/tu-quan-ao-c818
+			Móc phơi đồ									https://www.adayroi.com/moc-phoi-do-c819
+		Chăn & Đệm										https://www.adayroi.com/chan-dem-m822
+			Gối/Gối cho bé ăn							https://www.adayroi.com/goi-goi-cho-be-an-c823
+			Chăn										https://www.adayroi.com/chan-c824
+			Đệm											https://www.adayroi.com/dem-c825
+			Mùng										https://www.adayroi.com/mung-c826
+		Đồ dùng khác									https://www.adayroi.com/do-dung-khac-c827								
+		Dụng cụ tập vẽ, bút tô màu						https://www.adayroi.com/dung-cu-tap-ve-but-to-mau-c2088
+	Xe & các thiết bị an toàn							https://www.adayroi.com/xe-cac-thiet-bi-an-toan-m828
+		Chăm sóc an toàn cho bé							https://www.adayroi.com/cham-soc-an-toan-cho-be-m829
+			Đai đeo, địu em bé							https://www.adayroi.com/dai-deo-diu-em-be-c831
+			Thiết bị y tế cho bé						https://www.adayroi.com/thiet-bi-y-te-cho-be-c832
+			Chặn cửa									https://www.adayroi.com/chan-cua-c833			
+		Xe cho bé										https://www.adayroi.com/xe-cho-be-m834
+			Xe đẩy các loại								https://www.adayroi.com/xe-day-cac-loai-c835
+			Xe tập đi									https://www.adayroi.com/xe-tap-di-c836
+			Xe Nôi										https://www.adayroi.com/xe-noi-c837
+			Xe hơi điện các loại						https://www.adayroi.com/xe-hoi-dien-cac-loai-c838
+			Xe đạp										https://www.adayroi.com/xe-dap-c839
+			Xe scooter									https://www.adayroi.com/xe-scooter-c840
+			Các loại xe khác							https://www.adayroi.com/cac-loai-xe-khac-c841
+	Thời trang cho mẹ									https://www.adayroi.com/thoi-trang-cho-me-m842
+		Váy/Đầm bầu										https://www.adayroi.com/vay-dam-bau-c843		
+		Áo bầu											https://www.adayroi.com/ao-bau-c844
+		Nịt bụng sau khi sinh							https://www.adayroi.com/nit-bung-sau-khi-sinh-c847
+		Các loại khác									https://www.adayroi.com/cac-loai-khac-c850
+		Bộ đồ bầu										https://www.adayroi.com/bo-do-bau-c1911
+	Chăm sóc cho mẹ										https://www.adayroi.com/cham-soc-cho-me-m851
+		Chăm sóc cơ thể									https://www.adayroi.com/cham-soc-co-the-m852
+			Kem chống rạn, nứt da						https://www.adayroi.com/kem-chong-ran-nut-da-c853
+			Máy hút sữa & dụng cụ trữ sữa				https://www.adayroi.com/may-hut-sua-dung-cu-tru-sua-c854
+			Miếng lót thấm sữa & Trợ ti					https://www.adayroi.com/mieng-lot-tham-sua-tro-ti-c855
+			Sữa tắm, dầu gội, sản phẩm xông tắm			https://www.adayroi.com/sua-tam-dau-goi-san-pham-xong-tam-c857	
+			Băng vệ sinh cho mẹ							https://www.adayroi.com/bang-ve-sinh-cho-me-c859
+		Chăm sóc dinh dưỡng								https://www.adayroi.com/cham-soc-dinh-duong-c860
+Sách & Văn phòng phẩm										
 	Sách
 	Băng đĩa
 	Văn phòng phẩm
-	Qùa tặng
+	Quà tặng
 	Sách ngoại văn
-	Nhạc cụ
 Nhà cửa & Đời sống
 	Đồ dùng gia đình
 	Nội thất
 	Dã ngoại
 	Nhạc cụ
+	
 Voucher Dịch vụ (later)
