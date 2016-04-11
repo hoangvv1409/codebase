@@ -1,0 +1,15 @@
+Item Structure
+
+Title
+Brand
+Provider
+Thumbnails []
+Site
+Categories
+Tags
+Price
+Short Description
+Info1
+Info2
+Promotions []
+Properties
