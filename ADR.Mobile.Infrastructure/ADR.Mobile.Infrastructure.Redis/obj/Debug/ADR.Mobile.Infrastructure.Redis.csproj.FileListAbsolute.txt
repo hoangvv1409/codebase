@@ -1,0 +1,14 @@
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\ADR.Mobile.Infrastructure.Redis.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\ADR.Mobile.Infrastructure.Redis.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\ADR.Mobile.Infrastructure.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\StackExchange.Redis.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\Newtonsoft.Json.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\protobuf-net.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\ADR.Mobile.Infrastructure.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\StackExchange.Redis.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\StackExchange.Redis.xml
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\Newtonsoft.Json.xml
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\bin\Debug\protobuf-net.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\obj\Debug\ADR.Mobile.Infrastructure.Redis.csprojResolveAssemblyReference.cache
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\obj\Debug\ADR.Mobile.Infrastructure.Redis.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\obj\Debug\ADR.Mobile.Infrastructure.Redis.pdb

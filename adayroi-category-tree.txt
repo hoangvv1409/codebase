@@ -1,0 +1,175 @@
+Adayroi Category Tree
+
+Thực phẩm 												https://www.adayroi.com/thuc-pham-r591
+	Thực phẩm tươi 										https://www.adayroi.com/thuc-pham-tuoi-m595
+		Thủy hải sản 									https://www.adayroi.com/thuy-hai-san-m596
+			Nước mặn 									https://www.adayroi.com/nuoc-man-c597
+			Nước ngọt 									https://www.adayroi.com/nuoc-ngot-c598
+			Thủy hải sản khác 							https://www.adayroi.com/thuy-hai-san-khac-c599
+		Thịt 											https://www.adayroi.com/thit-m600
+			Heo											https://www.adayroi.com/heo-c601
+			Bò											https://www.adayroi.com/bo-c602	
+			Gia cầm										https://www.adayroi.com/gia-cam-c603	
+			Các loại thịt khác							https://www.adayroi.com/cac-loai-thit-khac-c604
+		Bánh chưng, bánh tét, đặc sản & truyền thống	https://www.adayroi.com/banh-chung-banh-tet-dac-san-truyen-thong-m605
+			Bánh chưng, tét								https://www.adayroi.com/banh-chung-tet-c606
+			Món ăn đặc sản								https://www.adayroi.com/mon-an-dac-san-c607
+			Giò chả										https://www.adayroi.com/gio-cha-c608
+			Nem chua									https://www.adayroi.com/nem-chua-c609
+			Đậu hũ										https://www.adayroi.com/dau-hu-c610
+			Thực phẩm truyền thống khác					https://www.adayroi.com/thuc-pham-truyen-thong-khac-c611
+	Trứng												https://www.adayroi.com/trung-m612
+		Trứng gà										https://www.adayroi.com/trung-ga-c613
+		Trứng vịt										https://www.adayroi.com/trung-vit-c614
+		Trứng chim cút									https://www.adayroi.com/trung-chim-cut-c615
+		Trứng chế biến & các loại trứng khác			https://www.adayroi.com/trung-che-bien-cac-loai-trung-khac-c616
+	Sữa - Kem & Sản phẩm từ sữa							https://www.adayroi.com/sua-kem-san-pham-tu-sua-m617
+		Sữa nước										https://www.adayroi.com/sua-nuoc-m618
+			Sữa tươi									https://www.adayroi.com/sua-tuoi-c619
+			Sữa tiệt trùng								https://www.adayroi.com/sua-tiet-trung-c620
+			Sữa đậu nành								https://www.adayroi.com/sua-dau-nanh-c621
+		Sữa đặc/bột										https://www.adayroi.com/sua-dac-bot-m622
+			Sữa đặc										https://www.adayroi.com/sua-dac-c623
+			Sữa bột										https://www.adayroi.com/sua-bot-c624
+		Sữa chua										https://www.adayroi.com/sua-chua-m625
+			Sữa chua uống								https://www.adayroi.com/sua-chua-uong-c626
+			Sữa chua ăn									https://www.adayroi.com/sua-chua-an-c627
+		Bơ/Magarine										https://www.adayroi.com/bo-magarine-m628
+			Bơ											https://www.adayroi.com/bo-c629
+			Magarine									https://www.adayroi.com/magarine-c630
+		Phô Mai											https://www.adayroi.com/pho-mai-m631
+			Phô mai Khối								https://www.adayroi.com/pho-mai-khoi-c632
+			Phô mai Miếng								https://www.adayroi.com/pho-mai-mieng-c633
+			Phô mai Lát									https://www.adayroi.com/pho-mai-lat-c634
+			Phô mai sợi/bào & các loại phô mai khác		https://www.adayroi.com/pho-mai-soi-bao-cac-loai-pho-mai-khac-c635
+	Rau - Củ - Quả										https://www.adayroi.com/rau-cu-qua-m639
+		Rau ăn lá										https://www.adayroi.com/rau-an-la-c640
+		Củ												https://www.adayroi.com/cu-c641
+		Quả												https://www.adayroi.com/qua-m642
+			Nội địa										https://www.adayroi.com/noi-dia-c643
+			Nhập khẩu									https://www.adayroi.com/nhap-khau-c644
+		Hạt												https://www.adayroi.com/hat-c645
+		Nấm												https://www.adayroi.com/nam-c646
+		Rau gia vị										https://www.adayroi.com/rau-gia-vi-c647
+		Các loại rau củ khác							https://www.adayroi.com/cac-loai-rau-cu-khac-c648
+	Thực phẩm đông lạnh & Bảo quản mát					https://www.adayroi.com/thuc-pham-dong-lanh-bao-quan-mat-m649
+		Thịt đông lạnh									https://www.adayroi.com/thit-dong-lanh-m650
+			Heo											https://www.adayroi.com/heo-c651
+			Bò											https://www.adayroi.com/bo-c652
+		Thịt nguội										https://www.adayroi.com/thit-nguoi-m653
+			Pate, dăm bông								https://www.adayroi.com/pate-dam-bong-c654
+			Xúc xích, ba rọi, xông khói					https://www.adayroi.com/xuc-xich-ba-roi-xong-khoi-c655
+		Thủy hải sản đông lạnh							https://www.adayroi.com/thuy-hai-san-dong-lanh-c656
+		Sản phẩm chế biến đông lạnh						https://www.adayroi.com/san-pham-che-bien-dong-lanh-c657
+	Hoa tươi											https://www.adayroi.com/hoa-tuoi-m658
+		Hoa cắm bình									https://www.adayroi.com/hoa-cam-binh-c660
+		Hoa chậu-hoa cảnh								https://www.adayroi.com/hoa-chau-hoa-canh-c661
+		Hoa bó-hoa giỏ									https://www.adayroi.com/hoa-bo-hoa-gio-c662			
+	Đồ hộp - Đồ lọ										https://www.adayroi.com/do-hop-do-lo-m664
+		Rau củ đóng hộp									https://www.adayroi.com/rau-cu-dong-hop-c665
+		Trái cây đóng hộp								https://www.adayroi.com/trai-cay-dong-hop-c666
+		Thịt hộp										https://www.adayroi.com/thit-hop-c667
+		Cá hộp											https://www.adayroi.com/ca-hop-c668	
+		Mật ong - mứt phết & đồ hộp khác				https://www.adayroi.com/mat-ong-mut-phet-do-hop-khac-c669
+	Thực phẩm khô										https://www.adayroi.com/thuc-pham-kho-m670
+		Thực phẩm ăn liền								https://www.adayroi.com/thuc-pham-an-lien-m671
+			Thực phẩm khô dạng sợi						https://www.adayroi.com/thuc-pham-kho-dang-soi-c672
+			Thực phẩm ăn liền khác						https://www.adayroi.com/thuc-pham-an-lien-khac-c673
+		Đường											https://www.adayroi.com/duong-c674
+		Dầu ăn											https://www.adayroi.com/dau-an-c675
+		Gia vị											https://www.adayroi.com/gia-vi-m676
+			Gia vị bột									https://www.adayroi.com/gia-vi-bot-c677							
+			Nước chấm									https://www.adayroi.com/nuoc-cham-c678
+			Tương sốt									https://www.adayroi.com/tuong-sot-c679
+		Nông sản khô									https://www.adayroi.com/nong-san-kho-c680
+		Thịt khô										https://www.adayroi.com/thit-kho-c681
+		Bánh đa - Bánh tráng - Phồng tôm				https://www.adayroi.com/banh-da-banh-trang-phong-tom-c682
+	Gạo - Ngũ cốc - Bột									https://www.adayroi.com/gao-ngu-coc-bot-m683
+		Gạo												https://www.adayroi.com/gao-c684
+		Ngũ cốc											https://www.adayroi.com/ngu-coc-c685
+		Bột												https://www.adayroi.com/bot-c686
+	Thực phẩm chay										https://www.adayroi.com/thuc-pham-chay-m687
+		Gia vị chay										https://www.adayroi.com/gia-vi-chay-c688
+		Sản phẩm chay ăn liền							https://www.adayroi.com/san-pham-chay-an-lien-c689
+		Sản phẩm chay khô								https://www.adayroi.com/san-pham-chay-kho-c690
+		Sản phẩm chay đóng hộp							https://www.adayroi.com/san-pham-chay-dong-hop-c691
+	Thực phẩm bổ dưỡng									https://www.adayroi.com/thuc-pham-bo-duong-m692
+		Tổ yến											https://www.adayroi.com/to-yen-c693
+		Nấm linh chi									https://www.adayroi.com/nam-linh-chi-c694
+		Hồng sâm										https://www.adayroi.com/hong-sam-c695
+	Bánh kẹo - Đồ ăn vặt - Giải khát					https://www.adayroi.com/banh-keo-do-an-vat-giai-khat-m696
+		Bánh kẹo										https://www.adayroi.com/banh-keo-m697
+			Kẹo cứng									https://www.adayroi.com/keo-cung-c698
+			Kẹo mềm										https://www.adayroi.com/keo-mem-c699
+			Kẹo cao su									https://www.adayroi.com/keo-cao-su-c700
+			Bánh cứng									https://www.adayroi.com/banh-cung-c701
+			Bánh mềm									https://www.adayroi.com/banh-mem-c702
+			Bánh / Kẹo hộp thiếc						https://www.adayroi.com/banh-keo-hop-thiec-c703
+			Thạch										https://www.adayroi.com/thach-c705
+			Socola										https://www.adayroi.com/socola-c706
+		Đồ ăn vặt - snacks								https://www.adayroi.com/do-an-vat-snacks-m707
+			Bim Bim - Snacks							https://www.adayroi.com/bim-bim-snacks-c708
+			Các loại hạt								https://www.adayroi.com/cac-loai-hat-c709
+			Củ quả sấy khô								https://www.adayroi.com/cu-qua-say-kho-c710
+			Ô mai										https://www.adayroi.com/o-mai-c711
+			Mứt các loại								https://www.adayroi.com/mut-cac-loai-c712
+		Thức uống										https://www.adayroi.com/thuc-uong-m713
+			Bia											https://www.adayroi.com/bia-c1955
+			Nước ngọt									https://www.adayroi.com/nuoc-ngot-c1974
+			Nước khoáng, nước tinh khiết				https://www.adayroi.com/nuoc-khoang-nuoc-tinh-khiet-c1975
+			Siro										https://www.adayroi.com/siro-c1976
+			Nước trái cây								https://www.adayroi.com/nuoc-trai-cay-c1977
+			Trà											https://www.adayroi.com/tra-c1978
+			Cà phê										https://www.adayroi.com/ca-phe-c1979
+			Thức uống bổ dưỡng							https://www.adayroi.com/thuc-uong-bo-duong-c1980
+			Thức uống khác								https://www.adayroi.com/thuc-uong-khac-c1981
+Điện máy & Công nghệ
+	Điện thoại - Máy tính bảng
+	Máy tính - Linh phụ kiện
+	Thiết bị nhà bếp
+	Thiết bị an ninh
+	Điện tử - Kỹ thuật sống
+	Điện máy - Điện lạnh - Điện gia dụng
+Thời trang
+	Thời trang nữ
+	Thời trang nam
+	Thời trang trẻ em
+	Phụ kiện
+Sức khỏe & Sắc đẹp
+	Trang điểm
+	Nước hoa
+	Chăm sóc mặt
+	Chăm sóc tóc
+	Chăm sóc toàn thân
+	Mỹ phẩm dành cho nam
+	Chăm sóc cá nhân & sức khỏe
+	Tình dầu & Spa
+	Vitamin & thực phẩm chức năng
+	Dụng cụ thể thao
+		Yoga, thể hình
+		Phụ kiện thể thao
+		Các môn cá nhân
+		Các môn tập thể
+		Đồ dưới nước
+Mẹ & Bé
+	Sữa & Bột cho bé
+	Đồ dùng ăn uống cho bé
+	Vệ sinh chăm sóc cho bé
+	Quần áo sơ sinh
+	Đồ chơi & Đồ dùng trẻ em
+	Xe & các thiết bị an toàn
+	Thời trang cho mẹ
+	Chăm sóc cho mẹ
+Sách & Văn phòng phẩm
+	Sách
+	Băng đĩa
+	Văn phòng phẩm
+	Qùa tặng
+	Sách ngoại văn
+	Nhạc cụ
+Nhà cửa & Đời sống
+	Đồ dùng gia đình
+	Nội thất
+	Dã ngoại
+	Nhạc cụ
+Voucher Dịch vụ (later)

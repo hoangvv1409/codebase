@@ -1,0 +1,16 @@
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\ADR.Mobile.Infrastructure.Messaging.Sql.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\ADR.Mobile.Infrastructure.Messaging.Sql.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\ADR.Mobile.Infrastructure.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\ADR.Mobile.Infrastructure.Messaging.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\Newtonsoft.Json.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\ADR.Mobile.Infrastructure.Messaging.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\ADR.Mobile.Infrastructure.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\Newtonsoft.Json.xml
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\obj\Debug\ADR.Mobile.Infrastructure.Messaging.Sql.csprojResolveAssemblyReference.cache
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\obj\Debug\ADR.Mobile.Infrastructure.Messaging.Sql.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\obj\Debug\ADR.Mobile.Infrastructure.Messaging.Sql.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\ADR.Mobile.Infrastructure.Messaging.Sql.dll.config
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\EntityFramework.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\EntityFramework.SqlServer.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\EntityFramework.xml
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.Sql\bin\Debug\EntityFramework.SqlServer.xml

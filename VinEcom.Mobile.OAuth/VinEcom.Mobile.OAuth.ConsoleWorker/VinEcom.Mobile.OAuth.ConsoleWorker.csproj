@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{90DF1266-3CD3-413B-9464-3DDD0D929089}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VinEcom.Mobile.OAuth.ConsoleWorker</RootNamespace>
+    <AssemblyName>VinEcom.Mobile.OAuth.ConsoleWorker</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration">
+      <HintPath>..\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.RegistrationByConvention">
+      <HintPath>..\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.RegistrationByConvention.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Container.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging.ServiceBus\ADR.Mobile.Infrastructure.Messaging.ServiceBus.csproj">
+      <Project>{77be4d8d-3808-4238-a5c3-5655f35858d4}</Project>
+      <Name>ADR.Mobile.Infrastructure.Messaging.ServiceBus</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Messaging\ADR.Mobile.Infrastructure.Messaging.csproj">
+      <Project>{df3db01d-2e20-4920-a74d-b4dfb03d2ffb}</Project>
+      <Name>ADR.Mobile.Infrastructure.Messaging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis\ADR.Mobile.Infrastructure.Redis.csproj">
+      <Project>{5c76a864-48f2-442e-8ab8-f62b197303f8}</Project>
+      <Name>ADR.Mobile.Infrastructure.Redis</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.csproj">
+      <Project>{ee5a9089-ea0b-4bbd-af8b-7044feda1351}</Project>
+      <Name>ADR.Mobile.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\VinEcom.Mobile.Contracts\VinEcom.Mobile.OAuth.Contracts\VinEcom.Mobile.OAuth.Contracts.csproj">
+      <Project>{1e687350-4c1e-4366-828c-c39f56252999}</Project>
+      <Name>VinEcom.Mobile.OAuth.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VinEcom.Mobile.OAuth.Core\VinEcom.Mobile.OAuth.Core.csproj">
+      <Project>{4019c9cc-a12a-4b71-ac47-eb5357057ed3}</Project>
+      <Name>VinEcom.Mobile.OAuth.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VinEcom.Mobile.OAuth.Database\VinEcom.Mobile.OAuth.Database.csproj">
+      <Project>{9de69708-2085-4a9f-8ade-95f02afe5538}</Project>
+      <Name>VinEcom.Mobile.OAuth.Database</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VinEcom.Mobile.OAuth.Service\VinEcom.Mobile.OAuth.Service.csproj">
+      <Project>{e24594a2-e8df-4fe9-8361-31bda10c754c}</Project>
+      <Name>VinEcom.Mobile.OAuth.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\InfrastructureSetting.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

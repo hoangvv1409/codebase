@@ -1,0 +1,9 @@
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\bin\Debug\VinEcom.Mobile.OAuth.UserPublicClient.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\bin\Debug\VinEcom.Mobile.OAuth.UserPublicClient.pdb
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\bin\Debug\ADR.Mobile.OnePointApi.CVLibPublic.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\bin\Debug\BusinessObjectPublicUser.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\bin\Debug\protobuf-net.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\bin\Debug\ADR.Mobile.OnePointApi.CVLibPublic.pdb
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\obj\Debug\VinEcom.Mobile.OAuth.UserPublicClient.csprojResolveAssemblyReference.cache
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\obj\Debug\VinEcom.Mobile.OAuth.UserPublicClient.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.UserPublicClient\obj\Debug\VinEcom.Mobile.OAuth.UserPublicClient.pdb

@@ -1,0 +1,4 @@
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\bin\Debug\Infrastructure.Messaging.ServiceBus.IntegrationTests.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\bin\Debug\Infrastructure.Messaging.ServiceBus.IntegrationTests.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\obj\Debug\Infrastructure.Messaging.ServiceBus.IntegrationTests.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\obj\Debug\Infrastructure.Messaging.ServiceBus.IntegrationTests.pdb

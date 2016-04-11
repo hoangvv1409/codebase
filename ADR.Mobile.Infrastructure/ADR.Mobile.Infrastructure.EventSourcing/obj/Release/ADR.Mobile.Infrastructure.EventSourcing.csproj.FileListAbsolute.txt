@@ -1,0 +1,11 @@
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\bin\Release\ADR.Mobile.Infrastructure.EventSourcing.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\bin\Release\ADR.Mobile.Infrastructure.EventSourcing.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\bin\Release\ADR.Mobile.Infrastructure.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\bin\Release\Newtonsoft.Json.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\bin\Release\protobuf-net.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\bin\Release\ADR.Mobile.Infrastructure.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\bin\Release\Newtonsoft.Json.xml
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\bin\Release\protobuf-net.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\obj\Release\ADR.Mobile.Infrastructure.EventSourcing.csprojResolveAssemblyReference.cache
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\obj\Release\ADR.Mobile.Infrastructure.EventSourcing.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.EventSourcing\obj\Release\ADR.Mobile.Infrastructure.EventSourcing.pdb

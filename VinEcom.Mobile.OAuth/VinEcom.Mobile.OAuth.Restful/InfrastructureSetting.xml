@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<InfrastructureSettings xmlns="urn:adayroi">
+  <ServiceBus>
+    <ConnectionString>Endpoint=sb://vm-dev-api01.adayroi.uat/Transportation,sb://vm-dev-web01.adayroi.uat/Transportation,sb://vm-dev-db01.adayroi.uat/Transportation;StsEndpoint=https://vm-dev-api01.adayroi.uat:9355/Transportation,https://vm-dev-web01.adayroi.uat:9355/Transportation,https://vm-dev-db01.adayroi.uat:9355/Transportation;RuntimePort=9354;ManagementPort=9355;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=iTuJ8iRt7R8eq33eUaA6UVsJehvxSF1TduUELyb34Tc=</ConnectionString>
+    <Topics>
+      <Topic Path="authen/commands">
+        <Subscription Name="OAuthViewGenerator" RequiresSession="true" />
+      </Topic>
+      <Topic Path="authen/events" IsEventBus="true">
+        <Subscription Name="AuthenInfoSync" RequiresSession="false"/>
+      </Topic>
+    </Topics>
+  </ServiceBus>
+  <RedisCache>
+    <ConnectionSettings>
+      <KeepAlive>5</KeepAlive>
+      <SyncTimeout>50000</SyncTimeout>
+      <AbortOnConnectionFail>false</AbortOnConnectionFail>
+      <AllowAdmin>true</AllowAdmin>
+      <ConnectionTimeout>50000</ConnectionTimeout>
+      <ConnectRetry>5</ConnectRetry>
+    </ConnectionSettings>
+    <RedisMaster>
+      <ServerIP>10.220.75.22:6380</ServerIP>
+      <DbId>11</DbId>
+    </RedisMaster>
+    <RedisSlave>
+      <ServerIP>10.220.75.22:6380</ServerIP>
+      <DbId>11</DbId>
+    </RedisSlave>
+  </RedisCache>
+</InfrastructureSettings>

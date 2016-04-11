@@ -1,0 +1,5 @@
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\bin\Release\Infrastructure.Messaging.ServiceBus.IntegrationTests.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\bin\Release\Infrastructure.Messaging.ServiceBus.IntegrationTests.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\obj\Release\Infrastructure.Messaging.ServiceBus.IntegrationTests.csprojResolveAssemblyReference.cache
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\obj\Release\Infrastructure.Messaging.ServiceBus.IntegrationTests.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\Infrastructure.Messaging.ServiceBus.IntegrationTests\obj\Release\Infrastructure.Messaging.ServiceBus.IntegrationTests.pdb

@@ -1,0 +1,10 @@
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\bin\Debug\ADR.Mobile.Infrastructure.Redis.IntegrationTests.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\bin\Debug\ADR.Mobile.Infrastructure.Redis.IntegrationTests.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\bin\Debug\ADR.Mobile.Infrastructure.Redis.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\bin\Debug\StackExchange.Redis.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\bin\Debug\ADR.Mobile.Infrastructure.Redis.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\bin\Debug\StackExchange.Redis.pdb
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\bin\Debug\StackExchange.Redis.xml
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\obj\Debug\ADR.Mobile.Infrastructure.Redis.IntegrationTests.csprojResolveAssemblyReference.cache
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\obj\Debug\ADR.Mobile.Infrastructure.Redis.IntegrationTests.dll
+E:\ADR\Mobile\ADR.MobileAPI\ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.Redis.IntegrationTests\obj\Debug\ADR.Mobile.Infrastructure.Redis.IntegrationTests.pdb

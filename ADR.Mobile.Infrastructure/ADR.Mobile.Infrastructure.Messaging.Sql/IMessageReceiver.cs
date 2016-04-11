@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ADR.Mobile.Infrastructure.Messaging.Sql
+{
+    /// <summary>
+    /// Abstracts the behavior of a receiving component that raises 
+    /// an event for every received event.
+    /// </summary>
+    public interface IMessageReceiver
+    {
+        /// <summary>
+        /// Event raised whenever a message is received. Consumer of 
+        /// the event is responsible for disposing the message when 
+        /// appropriate.
+        /// </summary>
+        event EventHandler<MessageReceivedEventArgs> MessageReceived;
+
+        /// <summary>
+        /// Starts the listener.
+        /// </summary>
+        void Start();
+
+        /// <summary>
+        /// Stops the listener.
+        /// </summary>
+        void Stop();
+    }
+}

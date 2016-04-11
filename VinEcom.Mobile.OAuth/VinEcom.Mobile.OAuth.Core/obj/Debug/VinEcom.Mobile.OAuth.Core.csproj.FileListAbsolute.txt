@@ -1,0 +1,13 @@
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\VinEcom.Mobile.OAuth.Core.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\VinEcom.Mobile.OAuth.Core.pdb
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\obj\Debug\VinEcom.Mobile.OAuth.Core.csprojResolveAssemblyReference.cache
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\obj\Debug\VinEcom.Mobile.OAuth.Core.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\obj\Debug\VinEcom.Mobile.OAuth.Core.pdb
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\ADR.Mobile.Infrastructure.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\Newtonsoft.Json.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\protobuf-net.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\ADR.Mobile.Infrastructure.pdb
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\Newtonsoft.Json.xml
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\protobuf-net.pdb
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\ADR.Mobile.Infrastructure.Messaging.dll
+E:\ADR\Mobile\ADR.MobileAPI\VinEcom.Mobile.OAuth\VinEcom.Mobile.OAuth.Core\bin\Debug\ADR.Mobile.Infrastructure.Messaging.pdb

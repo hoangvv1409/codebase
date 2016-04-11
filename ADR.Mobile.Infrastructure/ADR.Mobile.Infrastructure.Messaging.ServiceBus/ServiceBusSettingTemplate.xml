@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<InfrastructureSettings xmlns="urn:adayroi">
+  <ServiceBus>
+    <ConnectionString>[YOUR_CONNECTION_STRING_GOES_HERE]</ConnectionString>
+    <Topics>
+      <Topic Path="notification/events" IsEventBus="true">
+        <Subscription Name="Admin" RequiresSession="false"/>
+        <Subscription Name="MobileMessageViewGenerator" RequiresSession="false"/>
+        <Subscription Name="OneSignalPusher" RequiresSession="false"/>
+        <Subscription Name="ChangePasswordHandler" RequiresSession="false"/>
+      </Topic>
+
+      <Topic Path="notification/commands">
+        <Subscription Name="Admin" RequiresSession="false"/>
+        <Subscription Name="PushNotification" RequiresSession="false"/>
+      </Topic>
+    </Topics>
+  </ServiceBus>
+</InfrastructureSettings>

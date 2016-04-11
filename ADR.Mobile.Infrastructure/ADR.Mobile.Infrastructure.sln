@@ -1,0 +1,154 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADR.Mobile.Infrastructure", "ADR.Mobile.Infrastructure\ADR.Mobile.Infrastructure.csproj", "{EE5A9089-EA0B-4BBD-AF8B-7044FEDA1351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Tests", "ADR.Mobile.Infrastructure.Tests\Infrastructure.Tests.csproj", "{C75DE6B2-0643-4F98-A9BD-495B10412D3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Messaging", "Messaging", "{23A301F2-1884-47A1-A0F5-51438AE3F960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADR.Mobile.Infrastructure.Messaging", "ADR.Mobile.Infrastructure.Messaging\ADR.Mobile.Infrastructure.Messaging.csproj", "{DF3DB01D-2E20-4920-A74D-B4DFB03D2FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADR.Mobile.Infrastructure.Messaging.ServiceBus", "ADR.Mobile.Infrastructure.Messaging.ServiceBus\ADR.Mobile.Infrastructure.Messaging.ServiceBus.csproj", "{77BE4D8D-3808-4238-A5C3-5655F35858D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADR.Mobile.Infrastructure.Messaging.Sql", "ADR.Mobile.Infrastructure.Messaging.Sql\ADR.Mobile.Infrastructure.Messaging.Sql.csproj", "{009AB556-23E5-4539-8C74-583D54094D1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C5DF3E52-095F-4A06-89A7-CDC2A1F64232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Messaging.Sql.IntegrationTests", "ADR.Mobile.Infrastructure.Messaging.Sql.IntegrationTests\Infrastructure.Messaging.Sql.IntegrationTests.csproj", "{1991A1F0-5A6A-4016-B16C-9AE826ECFEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Messaging.ServiceBus.Tests", "ADR.Mobile.Infrastructure.Messaging.ServiceBus.Tests\Infrastructure.Messaging.ServiceBus.Tests.csproj", "{46FBA319-5211-4591-9ADE-30F4271A7D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Messaging.ServiceBus.IntegrationTests", "Infrastructure.Messaging.ServiceBus.IntegrationTests\Infrastructure.Messaging.ServiceBus.IntegrationTests.csproj", "{491A9090-D445-4624-8E29-7DCB37753C4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventSourcing", "EventSourcing", "{D8B5C939-55BF-42B4-94F6-41084FB9783B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADR.Mobile.Infrastructure.EventSourcing", "ADR.Mobile.Infrastructure.EventSourcing\ADR.Mobile.Infrastructure.EventSourcing.csproj", "{44A0E88E-119E-4283-B42B-84EC8335CDA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{F7027435-3DFC-439D-80DF-0B3839B8E268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADR.Mobile.Infrastructure.Redis", "ADR.Mobile.Infrastructure.Redis\ADR.Mobile.Infrastructure.Redis.csproj", "{5C76A864-48F2-442E-8AB8-F62B197303F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADR.Mobile.Infrastructure.Redis.IntegrationTests", "ADR.Mobile.Infrastructure.Redis.IntegrationTests\ADR.Mobile.Infrastructure.Redis.IntegrationTests.csproj", "{ABF4B208-83BA-461B-9CE0-01284EA366E8}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 12
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ve-tfs:8080/tfs/tech
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ADR.Mobile.Infrastructure\\ADR.Mobile.Infrastructure.csproj
+		SccProjectName1 = ADR.Mobile.Infrastructure
+		SccLocalPath1 = ADR.Mobile.Infrastructure
+		SccProjectUniqueName2 = ADR.Mobile.Infrastructure.Messaging\\ADR.Mobile.Infrastructure.Messaging.csproj
+		SccProjectTopLevelParentUniqueName2 = ADR.Mobile.Infrastructure.sln
+		SccProjectName2 = ADR.Mobile.Infrastructure.Messaging
+		SccLocalPath2 = ADR.Mobile.Infrastructure.Messaging
+		SccProjectUniqueName3 = ADR.Mobile.Infrastructure.Messaging.ServiceBus\\ADR.Mobile.Infrastructure.Messaging.ServiceBus.csproj
+		SccProjectTopLevelParentUniqueName3 = ADR.Mobile.Infrastructure.sln
+		SccProjectName3 = ADR.Mobile.Infrastructure.Messaging.ServiceBus
+		SccLocalPath3 = ADR.Mobile.Infrastructure.Messaging.ServiceBus
+		SccProjectUniqueName4 = ADR.Mobile.Infrastructure.Messaging.Sql\\ADR.Mobile.Infrastructure.Messaging.Sql.csproj
+		SccProjectTopLevelParentUniqueName4 = ADR.Mobile.Infrastructure.sln
+		SccProjectName4 = ADR.Mobile.Infrastructure.Messaging.Sql
+		SccLocalPath4 = ADR.Mobile.Infrastructure.Messaging.Sql
+		SccProjectUniqueName5 = Infrastructure.Messaging.ServiceBus.IntegrationTests\\Infrastructure.Messaging.ServiceBus.IntegrationTests.csproj
+		SccProjectTopLevelParentUniqueName5 = ADR.Mobile.Infrastructure.sln
+		SccProjectName5 = Infrastructure.Messaging.ServiceBus.IntegrationTests
+		SccLocalPath5 = Infrastructure.Messaging.ServiceBus.IntegrationTests
+		SccProjectUniqueName6 = ADR.Mobile.Infrastructure.Tests\\Infrastructure.Tests.csproj
+		SccProjectTopLevelParentUniqueName6 = ADR.Mobile.Infrastructure.sln
+		SccProjectName6 = ADR.Mobile.Infrastructure.Tests
+		SccLocalPath6 = ADR.Mobile.Infrastructure.Tests
+		SccProjectUniqueName7 = ADR.Mobile.Infrastructure.Messaging.Sql.IntegrationTests\\Infrastructure.Messaging.Sql.IntegrationTests.csproj
+		SccProjectTopLevelParentUniqueName7 = ADR.Mobile.Infrastructure.sln
+		SccProjectName7 = ADR.Mobile.Infrastructure.Messaging.Sql.IntegrationTests
+		SccLocalPath7 = ADR.Mobile.Infrastructure.Messaging.Sql.IntegrationTests
+		SccProjectUniqueName8 = ADR.Mobile.Infrastructure.Messaging.ServiceBus.Tests\\Infrastructure.Messaging.ServiceBus.Tests.csproj
+		SccProjectTopLevelParentUniqueName8 = ADR.Mobile.Infrastructure.sln
+		SccProjectName8 = ADR.Mobile.Infrastructure.Messaging.ServiceBus.Tests
+		SccLocalPath8 = ADR.Mobile.Infrastructure.Messaging.ServiceBus.Tests
+		SccProjectUniqueName9 = ADR.Mobile.Infrastructure.EventSourcing\\ADR.Mobile.Infrastructure.EventSourcing.csproj
+		SccProjectTopLevelParentUniqueName9 = ADR.Mobile.Infrastructure.sln
+		SccProjectName9 = ADR.Mobile.Infrastructure.EventSourcing
+		SccLocalPath9 = ADR.Mobile.Infrastructure.EventSourcing
+		SccProjectUniqueName10 = ADR.Mobile.Infrastructure.Redis\\ADR.Mobile.Infrastructure.Redis.csproj
+		SccProjectTopLevelParentUniqueName10 = ADR.Mobile.Infrastructure.sln
+		SccProjectName10 = ADR.Mobile.Infrastructure.Redis
+		SccLocalPath10 = ADR.Mobile.Infrastructure.Redis
+		SccProjectUniqueName11 = ADR.Mobile.Infrastructure.Redis.IntegrationTests\\ADR.Mobile.Infrastructure.Redis.IntegrationTests.csproj
+		SccProjectTopLevelParentUniqueName11 = ADR.Mobile.Infrastructure.sln
+		SccProjectName11 = ADR.Mobile.Infrastructure.Redis.IntegrationTests
+		SccLocalPath11 = ADR.Mobile.Infrastructure.Redis.IntegrationTests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5A9089-EA0B-4BBD-AF8B-7044FEDA1351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5A9089-EA0B-4BBD-AF8B-7044FEDA1351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5A9089-EA0B-4BBD-AF8B-7044FEDA1351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5A9089-EA0B-4BBD-AF8B-7044FEDA1351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75DE6B2-0643-4F98-A9BD-495B10412D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75DE6B2-0643-4F98-A9BD-495B10412D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75DE6B2-0643-4F98-A9BD-495B10412D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75DE6B2-0643-4F98-A9BD-495B10412D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3DB01D-2E20-4920-A74D-B4DFB03D2FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3DB01D-2E20-4920-A74D-B4DFB03D2FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3DB01D-2E20-4920-A74D-B4DFB03D2FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3DB01D-2E20-4920-A74D-B4DFB03D2FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BE4D8D-3808-4238-A5C3-5655F35858D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BE4D8D-3808-4238-A5C3-5655F35858D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BE4D8D-3808-4238-A5C3-5655F35858D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BE4D8D-3808-4238-A5C3-5655F35858D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009AB556-23E5-4539-8C74-583D54094D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009AB556-23E5-4539-8C74-583D54094D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009AB556-23E5-4539-8C74-583D54094D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009AB556-23E5-4539-8C74-583D54094D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1991A1F0-5A6A-4016-B16C-9AE826ECFEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1991A1F0-5A6A-4016-B16C-9AE826ECFEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1991A1F0-5A6A-4016-B16C-9AE826ECFEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1991A1F0-5A6A-4016-B16C-9AE826ECFEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FBA319-5211-4591-9ADE-30F4271A7D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FBA319-5211-4591-9ADE-30F4271A7D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FBA319-5211-4591-9ADE-30F4271A7D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FBA319-5211-4591-9ADE-30F4271A7D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491A9090-D445-4624-8E29-7DCB37753C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491A9090-D445-4624-8E29-7DCB37753C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491A9090-D445-4624-8E29-7DCB37753C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491A9090-D445-4624-8E29-7DCB37753C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A0E88E-119E-4283-B42B-84EC8335CDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A0E88E-119E-4283-B42B-84EC8335CDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A0E88E-119E-4283-B42B-84EC8335CDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A0E88E-119E-4283-B42B-84EC8335CDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C76A864-48F2-442E-8AB8-F62B197303F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C76A864-48F2-442E-8AB8-F62B197303F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C76A864-48F2-442E-8AB8-F62B197303F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C76A864-48F2-442E-8AB8-F62B197303F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF4B208-83BA-461B-9CE0-01284EA366E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF4B208-83BA-461B-9CE0-01284EA366E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF4B208-83BA-461B-9CE0-01284EA366E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF4B208-83BA-461B-9CE0-01284EA366E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C75DE6B2-0643-4F98-A9BD-495B10412D3F} = {C5DF3E52-095F-4A06-89A7-CDC2A1F64232}
+		{DF3DB01D-2E20-4920-A74D-B4DFB03D2FFB} = {23A301F2-1884-47A1-A0F5-51438AE3F960}
+		{77BE4D8D-3808-4238-A5C3-5655F35858D4} = {23A301F2-1884-47A1-A0F5-51438AE3F960}
+		{009AB556-23E5-4539-8C74-583D54094D1D} = {23A301F2-1884-47A1-A0F5-51438AE3F960}
+		{1991A1F0-5A6A-4016-B16C-9AE826ECFEAA} = {C5DF3E52-095F-4A06-89A7-CDC2A1F64232}
+		{46FBA319-5211-4591-9ADE-30F4271A7D30} = {C5DF3E52-095F-4A06-89A7-CDC2A1F64232}
+		{491A9090-D445-4624-8E29-7DCB37753C4F} = {C5DF3E52-095F-4A06-89A7-CDC2A1F64232}
+		{44A0E88E-119E-4283-B42B-84EC8335CDA4} = {D8B5C939-55BF-42B4-94F6-41084FB9783B}
+		{5C76A864-48F2-442E-8AB8-F62B197303F8} = {F7027435-3DFC-439D-80DF-0B3839B8E268}
+		{ABF4B208-83BA-461B-9CE0-01284EA366E8} = {C5DF3E52-095F-4A06-89A7-CDC2A1F64232}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
