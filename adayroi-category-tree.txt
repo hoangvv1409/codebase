@@ -1387,105 +1387,109 @@ Nhà cửa & Đời sống										https://www.adayroi.com/nha-cua-doi-song-r86
 				Ổ khóa
 				Két sắt
 		Nội thất phòng khách							https://www.adayroi.com/kim-khi-bao-ho-lao-dong-m1038
-			Sofa
-			Sofa giường
-			Ghế lười, ghế bành
-			Đôn, ghế phòng khách
-			Bàn, bàn phụ
-			Kệ TV
-			Kệ các loại
-			Tủ, kệ trưng bày
-			Đệm ngồi
-			Gối trang trí
-			Đèn trang trí
-			Nội thất phòng khách khác
-			Thảm
+			Sofa										https://www.adayroi.com/sofa-c1109
+			Sofa giường									https://www.adayroi.com/sofa-giuong-c1110	
+			Ghế lười, ghế bành							https://www.adayroi.com/ghe-luoi-ghe-banh-c1111
+			Đôn, ghế phòng khách						https://www.adayroi.com/don-ghe-phong-khach-c1112
+			Bàn, bàn phụ								https://www.adayroi.com/ban-ban-phu-c1113
+			Kệ TV										https://www.adayroi.com/ke-tv-c1114
+			Kệ các loại									https://www.adayroi.com/ke-cac-loai-c1115
+			Tủ, kệ trưng bày							https://www.adayroi.com/tu-ke-trung-bay-c1116				
+			Đệm ngồi									https://www.adayroi.com/dem-ngoi-c1117
+			Gối trang trí								https://www.adayroi.com/goi-trang-tri-c1118
+			Đèn trang trí								https://www.adayroi.com/den-trang-tri-c1119	
+			Nội thất phòng khách khác					https://www.adayroi.com/noi-that-phong-khach-khac-c1120
+			Thảm										https://www.adayroi.com/tham-c2044
 		Nội thất bếp - Phòng ăn							https://www.adayroi.com/noi-that-bep-phong-an-m1121
-			Bàn ăn
-			Bàn cafe
-			Ghế bàn ăn
-			Ghế bar
-			Đôn, ghế dài
-			Tủ chén, đĩa
-			Kệ bếp
-			Nội thất bếp khác
+			Bàn ăn										https://www.adayroi.com/ban-an-c1122
+			Bàn cafe									https://www.adayroi.com/ban-cafe-c1123
+			Ghế bàn ăn									https://www.adayroi.com/ghe-ban-an-c1124
+			Ghế bar										https://www.adayroi.com/ghe-bar-c1125
+			Đôn, ghế dài								https://www.adayroi.com/don-ghe-dai-c1126
+			Tủ chén, đĩa								https://www.adayroi.com/tu-chen-dia-c1127
+			Kệ bếp										https://www.adayroi.com/ke-bep-c1128
+			Nội thất bếp khác							https://www.adayroi.com/noi-that-bep-khac-c1129	
 		Nội thất phòng ngủ								https://www.adayroi.com/noi-that-phong-ngu-m1130
-			Chăn ga, mền
-			Gối lười
-			Gối, vỏ gối
-			Ruột gối, chăn
-			Đồ vải gia dụng
-			Thảm phòng ngủ
-			Giường
-			Nệm
-			Gương phòng ngủ
-			Đèn ngủ
-			Bàn trang điểm
-			Tủ áo
-			Nội thất phòng ngủ khác
-			Phụ kiện phòng ngủ
+			Chăn ga, mền								https://www.adayroi.com/chan-ga-men-c1131
+			Gối lười									https://www.adayroi.com/goi-luoi-c1132
+			Gối, vỏ gối									https://www.adayroi.com/goi-vo-goi-c1133
+			Ruột gối, chăn								https://www.adayroi.com/ruot-goi-chan-c1134
+			Đồ vải gia dụng								https://www.adayroi.com/do-vai-gia-dung-c1135
+			Thảm phòng ngủ								https://www.adayroi.com/tham-phong-ngu-c1136
+			Giường										https://www.adayroi.com/giuong-c1137
+			Nệm											https://www.adayroi.com/nem-c1138
+			Gương phòng ngủ								https://www.adayroi.com/guong-phong-ngu-c1139	
+			Đèn ngủ										https://www.adayroi.com/den-ngu-c1140
+			Bàn trang điểm								https://www.adayroi.com/ban-trang-diem-c1141
+			Tủ áo										https://www.adayroi.com/tu-ao-c1142
+			Nội thất phòng ngủ khác						https://www.adayroi.com/noi-that-phong-ngu-khac-c1143
+			Phụ kiện phòng ngủ							https://www.adayroi.com/phu-kien-phong-ngu-c1144
 		Thiết bị - Phụ kiện phòng tắm					https://www.adayroi.com/thiet-bi-phu-kien-phong-tam-m1145
-			Khăn, đồ nhà tắm
-			Thảm nhà tắm
-			Rèm phòng tắm, phụ kiện
-			Vật dụng chứa đồ
-			Phụ kiện phòng tắm
+			Khăn, đồ nhà tắm							https://www.adayroi.com/khan-do-nha-tam-c1146
+			Thảm nhà tắm								https://www.adayroi.com/tham-nha-tam-c1147
+			Rèm phòng tắm, phụ kiện						https://www.adayroi.com/rem-phong-tam-phu-kien-c1148			
+			Vật dụng chứa đồ							https://www.adayroi.com/vat-dung-chua-do-c1149
+			Phụ kiện phòng tắm							https://www.adayroi.com/phu-kien-phong-tam-c1150
 		Trang trí nội thất								https://www.adayroi.com/trang-tri-noi-that-m1151
-			Cây và hoa trang trí
-			Đồ trưng bày
-			Khung ảnh, tranh
-			Gương trang trí
-			Đồng hồ
-			Móc treo đồ
-			Kệ, hộp, giỏ để đồ
-			Giá kệ sảnh
-			Tủ nhỏ
-			Đồ nội thất sảnh
-			Phụ kiện trang trí khác
+			Cây và hoa trang trí						https://www.adayroi.com/cay-va-hoa-trang-tri-c1152
+			Đồ trưng bày								https://www.adayroi.com/do-trung-bay-c1153
+			Khung ảnh, tranh							https://www.adayroi.com/khung-anh-tranh-c1154
+			Gương trang trí								https://www.adayroi.com/guong-trang-tri-c1155
+			Đồng hồ										https://www.adayroi.com/dong-ho-c1156
+			Móc treo đồ									https://www.adayroi.com/moc-treo-do-c1157
+			Kệ, hộp, giỏ để đồ							https://www.adayroi.com/ke-hop-gio-de-do-c1158
+			Giá kệ sảnh									https://www.adayroi.com/gia-ke-sanh-c1159
+			Tủ nhỏ										https://www.adayroi.com/tu-nho-c1160
+			Đồ nội thất sảnh							https://www.adayroi.com/do-noi-that-sanh-c1161
+			Phụ kiện trang trí khác						https://www.adayroi.com/phu-kien-trang-tri-khac-c1162
 		Thiết bị vệ sinh								https://www.adayroi.com/thiet-bi-ve-sinh-m1163
-			Lavabo
-			Bồn cầu
-			Chậu rửa bát
-			Máy nước nóng
-			Vòi chậu, vòi sen tắm
-			Bồn tắm
-			Bồn nước
-			Thiết bị vệ sinh khác
-			Phòng tắm, cabin tắm
+			Lavabo										https://www.adayroi.com/lavabo-c1164
+			Bồn cầu										https://www.adayroi.com/bon-cau-c1165
+			Chậu rửa bát								https://www.adayroi.com/chau-rua-bat-c1166	
+			Máy nước nóng								https://www.adayroi.com/may-nuoc-nong-c1167
+			Vòi chậu, vòi sen tắm						https://www.adayroi.com/voi-chau-voi-sen-tam-c1168
+			Bồn tắm										https://www.adayroi.com/bon-tam-c1169
+			Bồn nước									https://www.adayroi.com/bon-nuoc-c1170
+			Thiết bị vệ sinh khác						https://www.adayroi.com/thiet-bi-ve-sinh-khac-c1171
+			Phòng tắm, cabin tắm						https://www.adayroi.com/phong-tam-cabin-tam-c1485
 		Đồ thờ cúng										https://www.adayroi.com/do-tho-cung-m1172
-			Tủ thờ
-			Tượng, hình thờ
-			Bộ lư đồng
-			Nhang
-			Đèn thờ
-			Đồ thờ khác
+			Tủ thờ										https://www.adayroi.com/tu-tho-c1173
+			Tượng, hình thờ								https://www.adayroi.com/tuong-hinh-tho-c1174
+			Bộ lư đồng									https://www.adayroi.com/bo-lu-dong-c1175
+			Nhang										https://www.adayroi.com/nhang-c1176
+			Đèn thờ										https://www.adayroi.com/den-tho-c1177	
+			Đồ thờ khác									https://www.adayroi.com/do-tho-khac-c1178
 		Vật phẩm phong thủy								https://www.adayroi.com/vat-pham-phong-thuy-m1179
-			Con vật phong thủy
-			Trang sức phong thủy
-			Tranh phong thủy
-			Đồ phong thủy khác
+			Con vật phong thủy							https://www.adayroi.com/con-vat-phong-thuy-c1180
+			Trang sức phong thủy						https://www.adayroi.com/trang-suc-phong-thuy-c1181
+			Tranh phong thủy							https://www.adayroi.com/tranh-phong-thuy-c1182
+			Đồ phong thủy khác							https://www.adayroi.com/do-phong-thuy-khac-c1183
 		Nội thất văn phòng								https://www.adayroi.com/noi-that-van-phong-m1184
-			Bàn văn phòng
-			Ghế
-			Tủ, kệ hồ sơ
-			Vách ngăn
-			Nội thất văn phòng khác
+			Bàn văn phòng								https://www.adayroi.com/ban-van-phong-c1185
+			Ghế											https://www.adayroi.com/ghe-c1186
+			Tủ, kệ hồ sơ								https://www.adayroi.com/tu-ke-ho-so-c1187
+			Vách ngăn									https://www.adayroi.com/vach-ngan-c1188	
+			Nội thất văn phòng khác						https://www.adayroi.com/noi-that-van-phong-khac-c1189	
 		Điện dân dụng									https://www.adayroi.com/dien-dan-dung-m1480
-			Thiết bị điện
-			Thiết bị chiếu sáng
+			Thiết bị điện								https://www.adayroi.com/thiet-bi-dien-c1481
+			Thiết bị chiếu sáng							https://www.adayroi.com/thiet-bi-chieu-sang-c1482
 		Nội thất hành lang - Lối vào					https://www.adayroi.com/noi-that-hanh-lang-loi-vao-m1748
-			Tủ, kệ giày
+			Tủ, kệ giày									https://www.adayroi.com/tu-ke-giay-c1754
 	Dã ngoại											https://www.adayroi.com/da-ngoai-m1190
 		Túi ngủ, lều trại								https://www.adayroi.com/tui-ngu-leu-trai-m1241
-			Lều											https://www.adayroi.com/danh-muc-m1242?isRedirect=0
-				Lều cá nhân
-				Lều tập thể
-				Phụ kiện lều
-				Tấm trải lều
-			Túi ngủ
-			Nệm hơi
-		Đồ dùng leo núi, dã ngoại
-		Trò chơi giải trí, trí tuệ
+			Lều											https://www.adayroi.com/leu-va-phu-kien-leu-c1244	
+			Túi ngủ										https://www.adayroi.com/tui-ngu-c1247
+			Nệm hơi										https://www.adayroi.com/nem-hoi-c1248
+		Đồ dùng leo núi, dã ngoại						https://www.adayroi.com/do-dung-leo-nui-da-ngoai-m1283
+			La bàn, ống nhòm, đèn pin					https://www.adayroi.com/la-ban-ong-nhom-den-pin-c1285
+			Trang phục dã ngoại							https://www.adayroi.com/trang-phuc-da-ngoai-c1286
+			Giày dép dã ngoại							https://www.adayroi.com/giay-dep-da-ngoai-c1287
+			Phụ kiện du lịch, dã ngoại					https://www.adayroi.com/phu-kien-du-lich-da-ngoai-c1295
+		Trò chơi giải trí, trí tuệ						https://www.adayroi.com/tro-choi-giai-tri-tri-tue-m1317
+			Trò chơi giải trí							https://www.adayroi.com/do-cau-c1318?isRedirect=0
+				Các dụng cụ vui chơi khác				https://www.adayroi.com/cac-dung-cu-vui-choi-khac-c1321
+			Trò chơi trí tuệ							https://www.adayroi.com/cac-dung-cu-vui-choi-khac-c1321
+				Các loại cờ								https://www.adayroi.com/cac-loai-co-c1323
 	Nhạc cụ												https://www.adayroi.com/nhac-cu-m1823
 		Đàn guitar										https://www.adayroi.com/dan-guitar-m1824
 			Acoustic									https://www.adayroi.com/acoustic-guitar-c1825
